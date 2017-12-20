@@ -1,0 +1,130 @@
+page_2 {
+
+	ion-content {
+		
+		[title-card] {
+			margin: 8px 0px !important;
+			margin-bottom: 10px !important;
+			width: 100% !important;
+			-webkit-box-shadow: 0 -2px 10px 2px rgba(0, 0, 0, 0.3) !important;
+    	box-shadow: 0 -2px 10px 2px rgba(0, 0, 0, 0.3) !important;
+    	border-radius: initial !important;
+
+			ion-card-content {
+				padding: 5px 20px  !important;
+
+				h3, p {
+			    font-size: 1.7rem !important;
+			    line-height: 1.7 !important;
+			    color: #223039 !important;
+			    text-align: center;
+			    margin: 0px !important;
+				}
+
+				h3 {
+					font-family: 'Gotham Bold Regular';
+					margin-top: 5px !important;
+				}
+
+				p {
+					font-family: 'Gotham Book Regular';
+				}
+
+				img {
+					width: 20%;
+    			margin: 15px auto;
+				}
+
+				img + p {
+					margin-bottom: 1em !important;
+				}
+
+				img + p > * {
+			    font-size: 1.6rem !important;
+			    line-height: 1.5 !important;
+			    color: #223039 !important;
+			    text-align: left;
+				margin: 0px 0px 1em 0px !important;
+				}
+
+				img + p strong {
+					font-family: 'Gotham Bold Regular';
+				}
+
+			}
+		}
+
+		ion-card {
+			margin: 0px 15px !important;
+			width: initial !important;
+			-webkit-box-shadow: 0 2px 1px 0px rgba(0, 0, 0, 0.2) !important;
+    	box-shadow: 0 2px 1px 0px rgba(0, 0, 0, 0.2) !important;
+    	border-radius: initial !important;
+
+			ion-card-content {
+				padding: 15px  !important;
+
+				.text-input {
+					font-family: 'Gotham Book Regular';
+					font-size: 1.4rem !important;
+					line-height: 1.4;
+					margin: 0px !important;
+					width: 100% !important;
+					border: none !important;
+					padding: 0px !important;
+				}
+
+			}
+		}
+
+		ion-card:last-child {
+			margin-bottom: 15px !important;
+		}
+
+		ion-label {
+			font-family: 'Gotham Book Regular';
+			font-size: 1.5rem !important;
+			line-height: 1.4;
+			color: #223039 !important;
+			margin: 15px 15px 5px 15px !important;
+			white-space: normal;
+		}
+
+		ion-segment {
+	    -webkit-justify-content: flex-start !important;
+	    justify-content: flex-start !important;
+	    margin-left: 15px;
+
+			ion-segment-button {
+				-webkit-flex: initial !important;
+				flex: initial !important;
+				height: 2.5rem !important;
+				width: 8rem !important;
+				border-width: 1px !important;
+				border-style: solid;
+				border-color: #b3b3b1 !important;
+				border-radius: 4px !important;
+				opacity: 1 !important;
+				font-size: 1.5rem !important;
+				line-height: 2.5rem !important;
+				color: #989795 !important;
+				background-color: transparent;
+				font-family: 'Gotham Book Regular';
+				font-weight: normal !important;
+				text-transform: none !important;
+			}
+
+			ion-segment-button:nth-child(2) {
+    		margin-left: 10px !important;
+			}
+
+			.segment-button.segment-activated {
+				color: #fff !important;
+				border: none !important; 
+				background-color: #51b461 !important;
+			}
+
+		}
+	}
+
+}

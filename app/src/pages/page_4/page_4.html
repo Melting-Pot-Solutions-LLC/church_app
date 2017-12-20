@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-navbar>
+    <img src="assets/imgs/logo_600.png"/>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+	<day-dots [days]="days"></day-dots>
+
+	<ion-card *ngFor="let item of items" (click)="goPage5(item.date)">
+  	<ion-card-content>
+		  <ion-grid no-padding>
+		    <ion-row [ngClass]="!completed_dates.includes(item.date) && 'not-completed'">
+		      <ion-col col-3>
+				    <h3>{{item.date_month}}</h3>
+			    	<h1>{{item.date_day}}</h1>
+		      </ion-col>
+		      <ion-col col-9>
+		      	{{item.text}}
+		      </ion-col>
+		    </ion-row>
+		  </ion-grid>
+  	</ion-card-content>
+	</ion-card>
+	
+</ion-content>

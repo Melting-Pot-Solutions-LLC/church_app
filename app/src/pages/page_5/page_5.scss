@@ -1,0 +1,100 @@
+page_5 {
+
+	ion-content {
+
+		h1 {
+			text-align: center;
+			font-family: 'PersonalLiturgy Regular';
+	    font-size: 4rem;
+	    color: #1c3541;
+	    margin: -8px 0px 0px;
+
+	    span {
+	    	color: #5ab16a;
+	    }
+		}
+
+		h3 {
+			font-family: 'Gotham Bold Regular';
+			font-size: 1.4rem;
+			color: #1d3037;
+			margin: 20px 15px 0px 15px;
+		}
+
+		p {
+			font-family: 'Gotham Book Regular';
+	    font-size: 1.5rem;
+	    color: #1b3f55;
+		margin: 5px 15px 20px;
+		line-height: 1.3em;
+		}
+		
+		p p{
+			margin-bottom: 5px;
+		}
+
+		p > p > strong > em
+				{
+					color: black; // make it black
+					font-weight: 900; // full, heavy bold.
+					font-style: normal; // *not* italic
+				}
+
+		[title-card] {
+			margin: 8px 0px 29px !important;
+			width: 100% !important;
+			-webkit-box-shadow: 0 -2px 10px 2px rgba(0, 0, 0, 0.3) !important;
+    	box-shadow: 0 -2px 10px 2px rgba(0, 0, 0, 0.3) !important;
+    	border-radius: initial !important;
+
+			ion-card-content {
+				padding: 5px 20px  !important;
+
+				h3, p {
+			    font-size: 1.7rem !important;
+			    line-height: 1.7 !important;
+			    color: #223039 !important;
+			    text-align: center;
+			    margin: 0px !important;
+				}
+
+				
+
+				h3 {
+					font-family: 'Gotham Bold Regular';
+					margin-top: 5px !important;
+				}
+
+				p {
+					font-family: 'Gotham Book Regular';
+				}
+
+				img {
+					width: 20%;
+    			margin: 15px auto;
+				}
+
+				img + p {
+					margin-bottom: 1em !important;
+				}
+
+				img + p > * {
+			    font-size: 1.6rem !important;
+			    line-height: 1.5 !important;
+			    color: #223039 !important;
+			    text-align: left;
+			    margin: 0px 0px 1em 0px !important;
+				}
+
+				
+
+				img + p strong {
+					font-family: 'Gotham Bold Regular';
+				}
+
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,88 @@
+<ion-header>
+  <ion-navbar>
+    <img src="assets/imgs/logo_600.png"/>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+  <day-dots [days]="days"></day-dots>
+
+  <ion-row weekday-title style="margin-bottom: 1.5em;">
+    <ion-col left-lines col>
+      <img src="assets/imgs/title_lines.svg">
+    </ion-col>
+    <ion-col center-text col>
+      <h1 style="font-size: 5rem">{{dayOfTheWeek}}</h1>
+    </ion-col>
+    <ion-col right-lines col>
+      <img src="assets/imgs/title_lines.svg">
+    </ion-col>
+  </ion-row>
+
+  <ion-card title-card>
+    <ion-card-content>
+      <h3>Today's Challenge:</h3>
+      <p [innerHTML]="todayQuestions.title"></p>
+      <img src="assets/imgs/title_lines.svg">
+      <p [innerHTML]="todayQuestions.content"></p>
+    </ion-card-content>
+  </ion-card>
+  
+  <div *ngFor="let question of todayQuestions.questions; let idx = index">
+  <!-- <ion-label stacked>{{question.title}}</ion-label> -->
+  <ion-label [innerHTML]="question.title" stacked></ion-label>
+        <!-- if the question is boolean-->
+        <ion-segment *ngIf="question.type=='boolean'" [(ngModel)]="todayAnswers && todayAnswers[idx]" (ionChange)="segmentChanged($event)">
+          <ion-segment-button value="Yes">
+            Yes
+          </ion-segment-button>
+          <ion-segment-button value="No">
+            No
+          </ion-segment-button>
+        </ion-segment>
+
+        <ion-card *ngIf="question.type=='textarea'">
+          <ion-card-content>
+          <ion-item style="padding: 0px !important">
+            <ion-textarea autocomplete="on" autocorrect="on" autocapitalize="on" spellcheck="on" elastic id="textarea" (ionChange)="textChanged($event)" style="width: 100%; border: 0px;" type="" rows="3" [(ngModel)]="todayAnswers && todayAnswers[idx]"></ion-textarea>
+          </ion-item>
+          </ion-card-content>
+        </ion-card>
+</div>
+
+<div style="text-align: center; margin-bottom: 7%">
+<button ion-button block padding id="save" style="width: 92%; display: inline-block; font-family: 'Gotham Book Regular'; border-radius: 0px; background-color: #103c52" (click)="onSave()">SAVE {{buttonText}}</button>
+</div>
+
+
+    
+<!-- 
+  <div style="text-align: center" *ngIf="isTodayWasAlreadyCovered">
+    <button ion-button block padding style="width: 92%; display: inline-block; font-family: 'Gotham Book Regular'; border-radius: 0px; background-color: #bdbec0">SAVE CHANGES</button>
+    </div> -->
+
+    <!-- <ion-label stacked style="color: #75ab84 !important; text-align: center" *ngIf="isTodayWasAlreadyCovered"></ion-label>><b>Entry Saved!</b> -->
+    <!-- </ion-label> -->
+
+  <!-- <ion-label stacked>What did you do during your tech-free time?</ion-label>
+  <ion-card>
+    <ion-card-content>
+      <ion-input type="text"></ion-input>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-label stacked>Was what you did the healthiest use of that time?</ion-label>
+  <ion-card>
+    <ion-card-content>
+      <ion-input type="text"></ion-input>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-label stacked>How did the tech-free feel?(difficult, rejuvenating, sressful, etc.)</ion-label>
+  <ion-card>
+    <ion-card-content>
+      <ion-input type="text"></ion-input>
+    </ion-card-content>
+  </ion-card> -->
+</ion-content>

@@ -1,0 +1,57 @@
+page_4 {
+
+	ion-content {
+
+		img {
+			padding: 8px 15px;
+	    width: 100%;
+		}
+
+		ion-card {
+			margin: 8px 0px !important;
+			width: 100% !important;
+			border-radius: initial !important;
+
+			ion-card-content {
+				padding: 15px  !important;
+
+				[col-3] {
+					font-family: 'PersonalLiturgy Regular';
+
+					h3 {
+						color: #1c3541;
+						margin: 0px;
+				    font-size: 2.5rem;
+				    line-height: 1;
+					}
+					h1 {
+						color: #5ab16a;
+						margin: 0px;
+				    font-size: 5rem;
+				    line-height: 1;
+					}
+				}
+
+				[col-9] {
+					font-family: 'Gotham Bold Regular';
+					color: #1c3541;
+					align-self: center;
+					-webkit-align-self: center;
+				}
+
+				.not-completed {
+
+					h3, h1 {
+						color: #a7a9ac !important;
+					}
+
+				}
+			}
+		}
+
+		ion-card:nth-child(2) {
+    	margin-top: 0px !important;
+		}
+	}
+	
+}

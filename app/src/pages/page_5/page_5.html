@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-navbar>
+    <img src="assets/imgs/logo_600.png"/>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+  <day-dots [days]="days"></day-dots>
+
+  <h1 style="font-size: 5rem">{{dateMonth}}<span>&nbsp;{{dateDay}}</span></h1>
+  <!-- <h1 style="font-size: 5rem">{{dayOfTheWeek}}</h1> -->
+  <ion-card title-card>
+    <ion-card-content>
+      <h3>Today's Challenge:</h3>
+      <p [innerHTML]="dateQuestions.title"></p>
+      <img src="assets/imgs/title_lines.svg">
+      <p [innerHTML]="dateQuestions.content"></p>
+    </ion-card-content>
+  </ion-card>
+
+  <div *ngFor="let question of dateQuestions.questions; let idx = index">
+    <!-- <h3>{{question.title}}</h3> -->
+    <p style="font-weight:bold; padding-bottom: 1em; border-bottom: 1px solid #f5f5f5;" [innerHTML]="question.title"></p>
+    <p style="margin-left: 30px;">{{dateAnswers && dateAnswers[idx]}}</p>
+  </div>
+  
+</ion-content>

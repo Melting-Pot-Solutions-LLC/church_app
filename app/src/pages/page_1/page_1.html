@@ -1,0 +1,8 @@
+<ion-content>
+
+  <img src="assets/imgs/logo_600.png"/>
+  <ion-label>Pick a testng date</ion-label>
+  <ion-datetime displayFormat="MMMM DD" pickerFormat="YYYY MMMM DD" (ionChange)="dateChanged()" [(ngModel)]="today"></ion-datetime>
+  <button clear ion-button (click)="clearData();" style="color: black">Clear All Answers From Your Phone</button>
+
+</ion-content>

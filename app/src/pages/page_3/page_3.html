@@ -1,0 +1,57 @@
+<ion-header>
+  <ion-navbar>
+    <img src="assets/imgs/logo_600.png"/>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+	<day-dots [days]="days"></day-dots>
+
+	<ion-card *ngFor="let item of items" (click)="goPage4(item)"  >
+  	<ion-card-content  >
+		  <ion-grid no-padding>
+		    <ion-row>
+		      <ion-col col-9>
+		      	<h1>{{item}}</h1>
+		      </ion-col>
+		      <ion-col col-3>
+				    <img src="assets/imgs/right_arrow.svg">
+		      </ion-col>
+		    </ion-row>
+		  </ion-grid>
+  	</ion-card-content>
+	</ion-card>
+
+	<!-- <ion-card *ngFor="let item of not_started" (click)="goPage6()">
+  	<ion-card-content>
+		  <ion-grid no-padding>
+		    <ion-row>
+		      <ion-col col-9>
+		      	<h1>{{item}}</h1>
+		      </ion-col>
+		      <ion-col col-3>
+				    <img src="assets/imgs/right_arrow.svg">
+		      </ion-col>
+		    </ion-row>
+		  </ion-grid>
+  	</ion-card-content>
+	</ion-card>
+
+
+	<ion-card *ngFor="let item of ended" (click)="goPage7()">
+  	<ion-card-content>
+		  <ion-grid no-padding>
+		    <ion-row>
+		      <ion-col col-9>
+		      	<h1>{{item}}</h1>
+		      </ion-col>
+		      <ion-col col-3>
+				    <img src="assets/imgs/right_arrow.svg">
+		      </ion-col>
+		    </ion-row>
+		  </ion-grid>
+  	</ion-card-content>
+	</ion-card> -->
+	
+</ion-content>

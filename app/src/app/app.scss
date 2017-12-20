@@ -1,0 +1,169 @@
+// http://ionicframework.com/docs/theming/
+
+
+// App Global Sass
+// --------------------------------------------------
+// Put style rules here that you want to apply globally. These
+// styles are for the entire app and not just one component.
+// Additionally, this file can be also used as an entry point
+// to import other Sass files to be included in the output CSS.
+//
+// Shared Sass variables, which can be used to adjust Ionic's
+// default Sass variables, belong in "theme/variables.scss".
+//
+// To declare rules for a specific mode, create a child rule
+// for the .md, .ios, or .wp mode classes. The mode class is
+// automatically applied to the <body> element in the app.
+
+::-webkit-scrollbar {
+	display:none;
+}
+
+
+// HEADER
+.header {
+	
+	.toolbar-background {
+		background-color: #5ab16a;
+	}
+	
+	.back-button {
+		position: absolute;
+	 	padding: 0px;
+	 	margin: 0px;
+		min-width: 36px;
+    height: 36px;
+	 	left: 15px;
+	 	top: 18px;
+
+	 	.back-button-icon {
+	 		padding: 0px;
+	 	}
+
+		.back-button-icon:before {
+		  content: url(../assets/imgs/back_button.svg);
+		}
+
+		.button-inner, .back-button-icon, .back-button-icon:before {
+			width: 36px;
+	    height: 36px;
+		}
+	}
+}
+
+.toolbar-md,
+.toolbar-wp {
+	height: 70px;
+}
+
+.toolbar-ios {
+	height: 90px;
+
+	.back-button {
+		top: 38px !important;
+	}
+}
+
+.toolbar-content {
+	width: 100%;
+  height: 100%;
+  text-align: center;
+
+  img {
+  	height: 100%;
+		margin: 0px auto;
+  	padding: 5px 0px;
+  	display: inline-block;
+  }
+}
+
+
+// CONTENT
+ion-content {
+	background: linear-gradient(90deg, #e3e4e2, #f7f6f5, #e4e5e4);
+
+	day-dots svg {
+		padding: 8px 15px;
+    width: 100%;
+	}
+
+
+	[weekday-title] {
+		margin: -8px 0px 0px;
+		height: 48px;
+		
+		ion-col {
+			padding: 0px;
+			height: 100%;
+		}
+
+		[left-lines], [right-lines] {
+			padding: 17px 15px 0px;
+			max-width: 90px;
+
+			img {
+				height: 100%;
+			}
+		}
+
+		[center-text] {
+			text-align: center;
+
+			h1 {
+				font-family: 'PersonalLiturgy Regular';
+		    font-size: 4rem;
+		    margin: 0px;
+		    color: #143d52;
+			}
+		}
+	}
+}
+
+// FOOTER
+.tabbar {
+	background: #5ab16a !important;
+	height: 40px;
+	border-top: 0.55px solid #fff !important;
+
+	.tab-button[aria-selected=true] {
+		color: #192f3a;
+		font-family: 'Gotham Medium Regular';
+	}
+
+  .tab-button[aria-selected=true]:before {
+    content: "";
+    position: absolute;
+		right: 0px;
+    left: 0px;
+    bottom: 0px;
+    height: 2px;
+    width: 100%;
+    border-bottom: 2px solid #fcffff;
+  }
+  
+	.tab-button {
+		color: #1e5a3e;
+		font-family: 'Gotham Book Regular';
+		min-height: 100% !important;
+		max-height: 100% !important;
+
+		.tab-button-text {
+	    font-size: 1.4rem;
+	    line-height: 1;
+	  }
+	}
+
+	.tab-button:nth-child(2) {
+    border-left: 2px;
+    border-style: solid;
+    -webkit-border-image: 
+      -webkit-gradient(linear, 100% 0, 0 0, from(#1a623c), to(#3d845c)) 1 100%;
+    border-image:
+      linear-gradient(to right, #1a623c, #3d845c) 1 100%; 
+	}
+
+	.alert-ios
+	{
+		font-family: 'Gotham Book Regular' !important;
+	}
+}

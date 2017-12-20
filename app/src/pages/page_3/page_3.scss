@@ -1,0 +1,49 @@
+page_3 {
+
+	ion-content {
+
+		img {
+			padding: 8px 15px;
+	    width: 100%;
+		}
+
+		ion-card {
+			margin: 8px 0px !important;
+			width: 100% !important;
+			border-radius: initial !important;
+
+			ion-card-content {
+				padding: 20px 30px !important;
+
+				ion-col {
+					align-self: center;
+					-webkit-align-self: center;
+				}
+
+				[col-9] {
+					h1 {
+						vertical-align: center;
+						font-family: 'PersonalLiturgy Regular';
+				    font-size: 4rem;
+				    color: #1c3541;
+				    margin: 0px;
+					}
+				}
+
+				[col-3] {
+					img {
+						padding: 0px;
+						max-width: 1.2rem;
+						height: 2.4rem;
+						margin-left: auto;
+					}
+				}
+			}
+		}
+
+		ion-card:nth-child(2) {
+    	margin-top: 0px !important;
+		}
+	}
+
+}

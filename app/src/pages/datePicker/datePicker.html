@@ -1,0 +1,10 @@
+<ion-content>
+
+  <img src="assets/imgs/logo_600.png"/>
+  <ion-label>Date</ion-label>
+  <ion-datetime displayFormat="MMMM DD" pickerFormat="MMMM DD" (ionChange)="dateChanged()" [(ngModel)]="today"></ion-datetime>
+  <button ion-button (click)="clearData();">Clear All Answers From Your Phone</button>
+
+
+
+</ion-content>
