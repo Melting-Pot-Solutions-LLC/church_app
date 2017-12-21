@@ -29,7 +29,7 @@ export class DayDotsComponent {
       
             // this.updateDots(dots);
             for (let day_index of dots) {
-              // day_index = day_index - 1;
+              day_index = day_index - 1;
               if ((day_index >= -1) && svgRects[day_index])
                 svgRects[day_index].style.fill = "#1D4054";
             }

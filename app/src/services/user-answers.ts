@@ -19,7 +19,7 @@ export class UserAnswers {
   getCompletedDatesForMonth(month: number): Promise<any> {
     return this.nativeStorage.keys().then((keys) => {
       return keys.filter(function(key) {
-        return month == (new Date(key)).getMonth();
+        return month == (new Date(key)).getUTCMonth();
       });
     }, (error) => {
       return [];

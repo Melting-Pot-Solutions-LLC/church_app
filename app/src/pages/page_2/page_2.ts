@@ -47,7 +47,7 @@ export class Page2 {
     private alertCtrl: AlertController,
     private dots: DayDotsComponent
    ) {
-    this.currentDate = testingService.getTestedDate().toISOString().substring(0, 10);
+    this.currentDate = new Date(testingService.getTestedDate().getTime() - (testingService.getTestedDate().getTimezoneOffset() * 60000)).toISOString().substring(0, 10);
     this.todayQuestions = questionsService.getTodaysQuestion(this.currentDate);
     userAnswers.getTodayAnswers(this.currentDate).then((answers) => {
       this.todayAnswers = answers;
@@ -69,7 +69,7 @@ export class Page2 {
     // }
     
     // this.updateDots();
-    let weekday = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+    let weekday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
     this.dayOfTheWeek = weekday[testingService.getTestedDate().getDay()];
 
       

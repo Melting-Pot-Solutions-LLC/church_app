@@ -24,7 +24,6 @@ export class Page1 {
   dateChanged()
   {
     let setDate = new Date(this.today);
-    setDate.setMinutes(setDate.getTimezoneOffset());
     this.testingService.setTestedDate(setDate);
     console.log("date is changed to " + setDate);
     

@@ -25,20 +25,19 @@ page_5 {
 			font-family: 'Gotham Book Regular';
 	    font-size: 1.5rem;
 	    color: #1b3f55;
-		margin: 5px 15px 20px;
-		line-height: 1.3em;
+			margin: 5px 15px 20px;
+			line-height: 1.3em;
 		}
 		
-		p p{
+		p p {
 			margin-bottom: 5px;
 		}
 
-		p > p > strong > em
-				{
-					color: black; // make it black
-					font-weight: 900; // full, heavy bold.
-					font-style: normal; // *not* italic
-				}
+		p > p > strong > em {
+			color: black;
+			font-family: 'Gotham Bold Regular';
+			font-style: normal;
+		}
 
 		[title-card] {
 			margin: 8px 0px 29px !important;
@@ -93,6 +92,7 @@ page_5 {
 				}
 
 			}
+			
 		}
 
 	}
