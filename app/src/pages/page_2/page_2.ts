@@ -163,8 +163,8 @@ export class Page2 {
         
         this.loading.dismiss();
         let alert = this.alertCtrl.create({
-          title: 'Entry saved!',
-          subTitle: "Today’s entry saved! Thanks for fighting for your spiritual health.",
+          title: "Today's Entry saved!",
+          subTitle: "Thanks for fighting for your spiritual health.",
           buttons: ['Ok']
         });
         alert.present();
