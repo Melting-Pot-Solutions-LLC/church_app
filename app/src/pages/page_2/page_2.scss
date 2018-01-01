@@ -88,6 +88,10 @@ page_2 {
 			color: #223039 !important;
 			margin: 15px 15px 5px 15px !important;
 			white-space: normal;
+
+			p strong {
+				font-family: 'Gotham Bold Regular';
+			}
 		}
 
 		ion-segment {

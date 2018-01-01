@@ -119,7 +119,7 @@ export class QuestionsService {
         {
           "id": 1,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-21",
+          "date": "2018-01-21",
           "content": "<p>Welcome to the beginning of what we pray will be a fruitful and life-giving journey.</p>\n<p>The goal of this app is for it to become a daily practice as we examine our lives and our habits&mdash;our personal &ldquo;liturgies&rdquo;&mdash;over the next few months.</p>\n<p>This series will be broken into sections of 3-4 weeks, with each section focused on helping us fight a particular issue that is keeping us from living the type of life God has designed for us (apathy, distraction, self-reliance, cynicism, and self-absorption).</p>\n<p>Each section will have a specific challenge to help us fight for spiritual health. Most sections will have the same challenge throughout the weeks, while some will have slight modifications each week.</p>\n<p>Our first challenge is to fight apathy by journaling. We want to pay attention to our lives and train ourselves to more fully engage with God by the simple act of journaling in a Godward way. You can save your content here on the app, or you can use a paper journal and simply use this as a delivery device/progress tracker.&nbsp;</p>\n<p>Lastly, you may be wondering, &ldquo;Why an app?&rdquo; We have several reasons, but the following quote sums up the reasoning nicely:</p>\n<p>&ldquo;We are continually being nudged by our devices toward a set of choices. The question is whether those choices are leading us to the life we actually want. I want a life of conversation and friendship, not distraction and entertainment; but every day, many times a day, I&rsquo;m nudged in the wrong direction. One key part of the art of living faithfully with technology is setting up better nudges for ourselves.&rdquo;</p>\n<p><strong>&mdash;Andy Crouch, <em>The Tech-Wise Family</em></strong></p>\n<p>We pray for this app to invade the consuming space that smartphones have taken in our lives, and for it to be a healthy &ldquo;nudge&rdquo; for you at least once a day (if not multiple times a day) to help you examine your daily life. We pray that it will encourage growth by creating a structure that helps other habits to flourish.</p>",
           "questions": [
             {
@@ -152,7 +152,7 @@ export class QuestionsService {
         {
           "id": 2,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-22",
+          "date": "2018-01-22",
           "content": "<p>Blessed is the man who trusts in the LORD, whose trust is the LORD. He is like a tree planted by water, that sends out its roots by the stream, and does not fear when heat comes, for its leaves remain green, and is not anxious in the year of drought, for it does not cease to bear fruit.</p>\n<p><strong>Jeremiah 17:7-8</strong></p>",
           "questions": [
             {
@@ -185,7 +185,7 @@ export class QuestionsService {
         {
           "id": 3,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-23",
+          "date": "2018-01-23",
           "content": "<p>&ldquo;You will either operate out of overflow or out of emptiness. You will enter relationships seeking to fill or drain. You&rsquo;ll come in as a person who has been loved well and has things to offer, or as a depleted, deficient person.&rdquo;</p>\n<p><strong>&mdash;Larry Wagner</strong></p>\n<p><strong><u>Apathy</u></strong>: not caring about things God created you to care about.</p>",
           "questions": [
             {
@@ -218,7 +218,7 @@ export class QuestionsService {
         {
           "id": 4,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-24",
+          "date": "2018-01-24",
           "content": "<p>&ldquo;Everyday all around us we are caught up in rituals, routines, or &lsquo;liturgies&rsquo; that try to tell us who we are, what we are made for, and what will satisfy. Taking assessment of our rituals, will often tell us what we actually love.&rdquo;</p>\n<p><strong>&mdash;James K.A. Smith, <em>You Are What You Love</em></strong></p>\n<p><strong><u>Distraction</u></strong>: being unable to focus on God and others because your attention is taken by less important things.</p>",
           "questions": [
             {
@@ -251,7 +251,7 @@ export class QuestionsService {
         {
           "id": 5,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-25",
+          "date": "2018-01-25",
           "content": "<p>\"When human conduct is not rooted in reliance on God, it is part of the very rebellion that ruins the world.\"</p>\n<p><strong>&mdash;John Piper </strong></p>\n<p><strong><u>Self-reliance</u></strong>: living your day-to-day life depending primarily on your own strength and resources.</p>",
           "questions": [
             {
@@ -284,7 +284,7 @@ export class QuestionsService {
         {
           "id": 6,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-26",
+          "date": "2018-01-26",
           "content": "<p>The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.</p>\n<p><strong>John 10:10</strong>&nbsp;</p>\n<p><strong><u>Cynicism</u></strong>: a posture of skepticism that leads you to doubt God&rsquo;s presence and activity in your life.</p>",
           "questions": [
             {
@@ -317,7 +317,7 @@ export class QuestionsService {
         {
           "id": 7,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-27",
+          "date": "2018-01-27",
           "content": "<p>&ldquo;Life in general can carry on within limits even though some of its specific needs are not adequately met. A plant or animal without the appropriate food, light, or space may lead a weakened and deformed existence, but one that is still a life. Human life is not what it could be, though it is still here, still going on. But the question is, what is human life being cut off from to leave it in such a sad and depleted condition?&rdquo;</p>\n<p>&mdash;<strong>Dallas Willard</strong>, <strong><em>The Spirit of the Disciplines</em></strong></p>\n<p>&nbsp;</p>\n<p><strong><u>Self-absorption</u></strong>: being preoccupied with your thoughts, feelings, desires, and concerns above all else.</p>",
           "questions": [
             {
@@ -350,7 +350,7 @@ export class QuestionsService {
         {
           "id": 8,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-28",
+          "date": "2018-01-28",
           "content": "<p>&ldquo;The crucible of our formation is in the monotony of our daily routines.&rdquo;</p>\n<p><strong>&mdash;Tish Harrison Warren, <em>Liturgy of the Ordinary</em></strong></p>\n<p>If the things you do do things do you, it is wise to start by taking stock of the things you actually do.</p>\n<p>Take the following example habits (add others if you can), and categorize them into the appropriate category below.</p>\n<ul>\n<li>Read the Bible&nbsp;&nbsp;&nbsp;&nbsp;</li>\n<li>Watch TV &nbsp;&nbsp;&nbsp;&nbsp;</li>\n<li>Read a book&nbsp;&nbsp; &nbsp;</li>\n<li>Social media&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>\n<li>Quality prayer time</li>\n<li>Consume alcohol</li>\n<li>Check email</li>\n<li>Listen to music&nbsp;&nbsp;&nbsp;&nbsp;</li>\n<li>Hobbies</li>\n<li>Zoning out</li>\n<li>Quality conversation &nbsp;&nbsp;</li>\n<li>Physical activity</li>\n<li>Purposeless phone scrolling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>\n<li>Hospitality</li>\n<li>Serving others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>\n<li>Quality time with kids&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>\n<li>Intentional sabbath</li>\n<li>Fasting</li>\n<li>Sinful habits</li>\n<li>Time wasters</li>\n<li>Eating when not hungry</li>\n<li>Quality time with community</li>\n<li>Video games</li>\n<li>Listen to sermons</li>\n<li>Take a walk</li>\n<li>Quiet time</li>\n<li>Surf the internet</li>\n<li>Follow sports/interests</li>\n</ul>",
           "questions": [
             {
@@ -378,7 +378,7 @@ export class QuestionsService {
         {
           "id": 9,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-29",
+          "date": "2018-01-29",
           "content": "<p>For if you live according to the flesh you will die, but if by the Spirit you put to death the deeds of the body, you will live.</p>\n<p><strong>Romans 8:13</strong></p>",
           "questions": [
             {
@@ -411,7 +411,7 @@ export class QuestionsService {
         {
           "id": 10,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-30",
+          "date": "2018-01-30",
           "content": "<p>Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life.</p>\n<p><strong>Galatians 6:7-8</strong></p>",
           "questions": [
             {
@@ -444,7 +444,7 @@ export class QuestionsService {
         {
           "id": 11,
           "title": "Fight apathy by journaling.",
-          "date": "2017-01-31",
+          "date": "2018-01-31",
           "content": "<p>&ldquo;What I in my weakness see as another monotonous day in a string of days, God sees as a singular gift...God is forming us into a new people. And the place of that formation is in the small moments of today.&rdquo;</p>\n<p><strong> &mdash;Tish Harrison Warren,<em> Liturgy of the Ordinary</em></strong></p>",
           "questions": [
             {
@@ -477,7 +477,7 @@ export class QuestionsService {
         {
           "id": 12,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-01",
+          "date": "2018-02-01",
           "content": "<p>&ldquo;Your daily routine has a worldview. It orients your body to the world and primes you to experience it in specific ways.&rdquo;</p>\n<p><strong>&mdash;Mike Cosper, <em>Recapture the Wonder</em></strong></p>",
           "questions": [
             {
@@ -510,7 +510,7 @@ export class QuestionsService {
         {
           "id": 13,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-02",
+          "date": "2018-02-02",
           "content": "<p>&ldquo;As our choices settle into character traits, they are &lsquo;farmed out&rsquo; to our body, where they occur more or less automatically without us having to think about what we are doing.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>Renovation of the Heart in Daily Practice</em></strong></p>\n<p>&nbsp;</p>",
           "questions": [
             {
@@ -543,7 +543,7 @@ export class QuestionsService {
         {
           "id": 14,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-03",
+          "date": "2018-02-03",
           "content": "<p>&ldquo;Raking is easy, but all you get is leaves. Digging is hard, but you might find diamonds.&rdquo;</p>\n<p><strong>&mdash;John Piper</strong></p>",
           "questions": [
             {
@@ -576,7 +576,7 @@ export class QuestionsService {
         {
           "id": 15,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-04",
+          "date": "2018-02-04",
           "content": "<p>By this we may be sure that we are in him: whoever says he abides in him ought to walk in the same way in which he walked.</p>\n<p><strong>1 John 2:5-6</strong></p>",
           "questions": [
             {
@@ -609,7 +609,7 @@ export class QuestionsService {
         {
           "id": 16,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-05",
+          "date": "2018-02-05",
           "content": "<p>What you have learned and received and heard and seen in me&mdash;practice these things, and the God of peace will be with you.</p>\n<p><strong>Philippians 4:9</strong></p>",
           "questions": [
             {
@@ -642,7 +642,7 @@ export class QuestionsService {
         {
           "id": 17,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-06",
+          "date": "2018-02-06",
           "content": "<p>&ldquo;A baseball player who expects to excel in the game without adequate exercise of his body is no more ridiculous than the Christian who hopes to be able to act in the manner of Christ when put to the test without the appropriate exercise in godly living.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>The Spirit of the Disciplines</em></strong></p>",
           "questions": [
             {
@@ -675,7 +675,7 @@ export class QuestionsService {
         {
           "id": 18,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-07",
+          "date": "2018-02-07",
           "content": "<p>&ldquo;How I spend this ordinary day in Christ is how I will spend my Christian life.&rdquo;</p>\n<p><strong>&mdash;Tish Harrison Warren,<em> Liturgy of the Ordinary</em></strong></p>\n",
           "questions": [
             {
@@ -708,7 +708,7 @@ export class QuestionsService {
         {
           "id": 19,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-08",
+          "date": "2018-02-08",
           "content": "<p>&ldquo;One can receive accolades for preaching Jesus, yet at the same time know very little about how to follow Jesus in the living rooms of their ordinary lives.\"</p>\n<p><strong>&mdash;Zack Eswine, <em>The Imperfect Pastor</em></strong></p>\n<p>&nbsp;</p>\n<p>The test Paul gives us for how we are &ldquo;walking in the Spirit&rdquo; is if the fruit of the Spirit is being produced in our lives (Galatians 5:16-25). The things he names as fruit of the Spirit are &ldquo;love, joy, peace, patience, kindness, goodness, gentleness, faithfulness, and self-control.&rdquo;</p>",
           "questions": [
             {
@@ -741,7 +741,7 @@ export class QuestionsService {
         {
           "id": 20,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-09",
+          "date": "2018-02-09",
           "content": "<p>&ldquo;The often unseen and unsung ways we spend our time are what form us. Our mundane moments, rooted in the communal practices of the church, shape us through habit and repetition, moment by passing moment, into people who spend their days and therefore their lives marked by God...The kind of spiritual life and disciplines needed to sustain the Christian life are quiet, repetitive, and ordinary.&rdquo;</p>\n<p><strong>&mdash;Tish Harrison Warren, <em>Liturgy of the Ordinary</em></strong></p>",
           "questions": [
             {
@@ -774,7 +774,7 @@ export class QuestionsService {
         {
           "id": 21,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-10",
+          "date": "2018-02-10",
           "content": "<p>&ldquo;We become the people we are by what we choose to do, again. There is no virtue without repetition.&rdquo;</p>\n<p><strong>&mdash;JR Vassar</strong></p>",
           "questions": [
             {
@@ -807,7 +807,7 @@ export class QuestionsService {
         {
           "id": 22,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-11",
+          "date": "2018-02-11",
           "content": "<p>&ldquo;We each carry in our minds a list of behaviors we label &lsquo;sinful,&rsquo; and it is understood that participating in these things can disrupt our experience of God&rsquo;s presence. But just because something isn&rsquo;t &lsquo;sinful&rsquo; doesn&rsquo;t mean it cannot be detrimental.&rdquo;</p>\n<p><strong>&mdash;Skye Jethani</strong></p>\n<p>&nbsp;</p>\n<p>Hebrews 12:1 instructs us to “lay aside every weight, and sin that clings so closely” so that we can run the race ahead of us with our eyes fixed on Jesus. Think about your habits and life rhythms (hobbies, TV shows, phone apps, eating/drinking patterns, etc.). Is there anything you enjoy, but if you’re honest it’s not spiritually helpful for you? </p>",
           "questions": [
             {
@@ -840,7 +840,7 @@ export class QuestionsService {
         {
           "id": 23,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-12",
+          "date": "2018-02-12",
           "content": "<p>&ldquo;More than any other discipline, fasting reveals the things that control us.&rdquo;</p>\n<p><strong>&mdash;Richard Foster, <em>Celebration of Discipline</em></strong></p>",
           "questions": [
             {
@@ -873,7 +873,7 @@ export class QuestionsService {
         {
           "id": 24,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-13",
+          "date": "2018-02-13",
           "content": "<p>&ldquo;Reject anything that is producing an addiction in you.&rdquo;</p>\n<p>&mdash;<strong>Richard Foster</strong>, <strong><em>Celebration of Discipline</em></strong></p>",
           "questions": [
             {
@@ -906,7 +906,7 @@ export class QuestionsService {
         {
           "id": 25,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-14",
+          "date": "2018-02-14",
           "content": "<p>&ldquo;Once you get used to telling yourself &lsquo;no&rsquo; in small things, it becomes easier to do so in larger things.&rdquo;</p>\n<p><strong>&mdash;Rod Dreher</strong></p>",
           "questions": [
             {
@@ -939,7 +939,7 @@ export class QuestionsService {
         {
           "id": 26,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-15",
+          "date": "2018-02-15",
           "content": "<p>&ldquo;All things are lawful for me,&rdquo; but not all things are helpful. &ldquo;All things are lawful for me,&rdquo; but I will not be dominated by anything.</p>\n<p><strong>1 Corinthians 6:12</strong></p>",
           "questions": [
             {
@@ -972,7 +972,7 @@ export class QuestionsService {
         {
           "id": 27,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-16",
+          "date": "2018-02-16",
           "content": "<p>&ldquo;Our consumer society has done a remarkable thing. It has convinced us that our desires are immutable and undeniable; that we are defined by longings and are powerless to change or resist them.&rdquo;</p>\n<p><strong>&mdash;Skye Jethani</strong></p>",
           "questions": [
             {
@@ -1005,7 +1005,7 @@ export class QuestionsService {
         {
           "id": 28,
           "title": "Fight apathy by journaling.",
-          "date": "2017-02-17",
+          "date": "2018-02-17",
           "content": "<p>Keep your heart with all vigilance, for from it flow the springs of life.</p>\n<p><strong>Proverbs 4:23</strong></p>",
           "questions": [
             {
@@ -1038,7 +1038,7 @@ export class QuestionsService {
         {
           "id": 29,
           "title": "Fight distraction by going tech-free for one hour.",
-          "date": "2017-02-18",
+          "date": "2018-02-18",
           "content": "<p>&ldquo;Try to pinpoint the last time you took a purposeless walk through the late spring breeze, when there was no itch in your hand to reach for a mobile device, and you felt like the wind and sky around you had nothing to disclose to you other than the vast and mysterious sympathy of existence itself. Was it 2007? Or as far back as 1997? Does just asking the question make you feel ill?&rdquo;</p>\n<p><strong>&mdash;Michael Brendan Dougherty</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least one hour of intentional time away from all technology. Do whatever you like as long as it is intentional—spend undistracted time with God or people in your life, go for a walk, read a book, enjoy nature, etc. </p>",
           "questions": [
             {
@@ -1071,7 +1071,7 @@ export class QuestionsService {
         {
           "id": 30,
           "title": "Fight distraction by going tech-free for one hour.",
-          "date": "2017-02-19",
+          "date": "2018-02-19",
           "content": "<p>&ldquo;Of course, something will not come up. But over the course of the next 90 minutes I will check my phone for texts, likes, and <em>New York Times </em>push alerts at every pang of boredom, anxiety, relaxation, satiety, frustration, or weariness. I will check it in the bathroom and when I return from the bathroom. I don&rsquo;t really enjoy this, but it <em>is </em>very interesting, even if some indignant and submerged part of my psyche moans that I am making myself dumber every time I look at it.&rdquo;</p>\n<p><strong>&mdash;Robinson Meyer</strong></p>\n\n<p>&nbsp;</p>\n<p>Spend at least one hour of intentional time away from all technology. Do whatever you like as long as it is intentional—spend undistracted time with God or people in your life, go for a walk, read a book, enjoy nature, etc. </p>",
           "questions": [
             {
@@ -1104,7 +1104,7 @@ export class QuestionsService {
         {
           "id": 31,
           "title": "Fight distraction by going tech-free for one hour.",
-          "date": "2017-02-20",
+          "date": "2018-02-20",
           "content": "<p>Come to me, all who labor and are heavy laden, and I will give you rest.</p>\n<p><strong>Matthew 11:28</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least one hour of intentional time away from all technology. Do whatever you like as long as it is intentional—spend undistracted time with God or people in your life, go for a walk, read a book, enjoy nature, etc. </p>",
           "questions": [
             {
@@ -1137,7 +1137,7 @@ export class QuestionsService {
         {
           "id": 32,
           "title": "Fight distraction by going tech-free for one hour.",
-          "date": "2017-02-21",
+          "date": "2018-02-21",
           "content": "<p>&ldquo;What the Net seems to be doing is chipping away my capacity for concentration and contemplation. Whether I&rsquo;m online or not, my mind now expects to take in information the way the Net distributes it: in a swiftly moving stream of particles. Once I was a scuba diver in the sea of words. Now I zip along the surface like a guy on a Jet Ski.&rdquo;</p>\n<p><strong>&mdash;Nicholas Carr, <em>The Shallows</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least one hour of intentional time away from all technology. Do whatever you like as long as it is intentional—spend undistracted time with God or people in your life, go for a walk, read a book, enjoy nature, etc. </p>",
           "questions": [
             {
@@ -1170,7 +1170,7 @@ export class QuestionsService {
         {
           "id": 33,
           "title": "Fight distraction by going tech-free for one hour.",
-          "date": "2017-02-22",
+          "date": "2018-02-22",
           "content": "<p>Thus says the Lord: &ldquo;Stand by the roads, and look, and ask for the ancient paths, where the good way is; and walk in it, and find rest for your souls. But they said, &lsquo;We will not walk in it.&rsquo; I set watchmen over you, saying, &lsquo;Pay attention to the sound of the trumpet!&rsquo; But they said, &lsquo;We will not pay attention.&rsquo; Therefore hear, O nations, and know, O congregation, what will happen to them. Hear, O earth; behold, I am bringing disaster upon this people, the fruit of their devices, because they have not paid attention to my words; and as for my law, they have rejected it.&rdquo;</p>\n<p><strong>Jeremiah 6:16-19</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least one hour of intentional time away from all technology. Do whatever you like as long as it is intentional—spend undistracted time with God or people in your life, go for a walk, read a book, enjoy nature, etc. </p>",
           "questions": [
             {
@@ -1203,7 +1203,7 @@ export class QuestionsService {
         {
           "id": 34,
           "title": "Fight distraction by going tech-free for one hour.",
-          "date": "2017-02-23",
+          "date": "2018-02-23",
           "content": "<p>&ldquo;The mania of our online lives reveals this: we keep swiping and swiping because we are never fully satisfied.&rdquo;</p>\n<p><strong>&mdash;Andrew Sullivan</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least one hour of intentional time away from all technology. Do whatever you like as long as it is intentional—spend undistracted time with God or people in your life, go for a walk, read a book, enjoy nature, etc. </p>",
           "questions": [
             {
@@ -1236,7 +1236,7 @@ export class QuestionsService {
         {
           "id": 35,
           "title": "Fight distraction by going tech-free for one hour.",
-          "date": "2017-02-24",
+          "date": "2018-02-24",
           "content": "<p>&ldquo;Find out what helps you connect with God, and make a discipline out of it.&rdquo;</p>\n<p><strong>&mdash;Pete Greig</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least one hour of intentional time away from all technology. Do whatever you like as long as it is intentional—spend undistracted time with God or people in your life, go for a walk, read a book, enjoy nature, etc. </p>",
           "questions": [
             {
@@ -1269,7 +1269,7 @@ export class QuestionsService {
         {
           "id": 36,
           "title": "Fight distraction by spending 30 minutes alone with God.",
-          "date": "2017-02-25",
+          "date": "2018-02-25",
           "content": "<p>&ldquo;I feel like I have to get saved every morning. I wake up and the devil is sitting on my face.&rdquo;</p>\n<p><strong>&mdash;John Piper</strong></p>\n<p>&nbsp;</p>\n<p>Spend 30 minutes in solitude connecting with God through Scripture and prayer. It may be helpful to do things that help you focus on God (whether that is journaling, silence, getting out in nature, etc.). </p>",
           "questions": [
             {
@@ -1302,7 +1302,7 @@ export class QuestionsService {
         {
           "id": 37,
           "title": "Fight distraction by spending 30 minutes alone with God.",
-          "date": "2017-02-26",
+          "date": "2018-02-26",
           "content": "<p>&ldquo;In solitude, we seek God, but the first thing we encounter is ourselves. The real you shows up, with all of its embarrassing attributes. Frustrated about your sex life? Tired of compulsively eating garbage? Burdened by the shame of an addiction to pornography or substances? Solitude often forces us to look these sorrows square in the face and makes us reckon with a cold reality: we like our busyness. We like the chaos of our lives. We like it because it distracts us from ourselves.&rdquo;</p>\n<p><strong>&mdash;Mike Cosper, <em>Recapture the Wonder</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend 30 minutes in solitude connecting with God through Scripture and prayer. It may be helpful to do things that help you focus on God (whether that is journaling, silence, getting out in nature, etc.). </p>",
           "questions": [
             {
@@ -1335,7 +1335,7 @@ export class QuestionsService {
         {
           "id": 38,
           "title": "Fight distraction by spending 30 minutes alone with God.",
-          "date": "2017-02-27",
+          "date": "2018-02-27",
           "content": "<p>&ldquo;The most difficult problem is not finding time but convincing myself that this is important enough to set aside the time.&rdquo;</p>\n<p><strong>&mdash;Richard Foster, <em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend 30 minutes in solitude connecting with God through Scripture and prayer. It may be helpful to do things that help you focus on God (whether that is journaling, silence, getting out in nature, etc.). </p>",
           "questions": [
             {
@@ -1368,7 +1368,7 @@ export class QuestionsService {
         {
           "id": 39,
           "title": "Fight distraction by spending 30 minutes alone with God.",
-          "date": "2017-02-28",
+          "date": "2018-02-28",
           "content": "<p>&ldquo;Life oriented around the spiritual disciplines is not a pathway to pleasing God but a pathway to experiencing the joy of God that is already ours in Jesus. The disciplines reshape our awareness and perception, and that awareness has a way of growing roots and branches, expanding far beyond our &lsquo;prayer time&rsquo; and into our whole lives.&rdquo;</p>\n<p><strong>&mdash;Mike Cosper, <em>Recapture the Wonder</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend 30 minutes in solitude connecting with God through Scripture and prayer. It may be helpful to do things that help you focus on God (whether that is journaling, silence, getting out in nature, etc.). </p>",
           "questions": [
             {
@@ -1401,7 +1401,7 @@ export class QuestionsService {
         {
           "id": 40,
           "title": "Fight distraction by spending 30 minutes alone with God.",
-          "date": "2017-03-01",
+          "date": "2018-03-01",
           "content": "<p>Therefore, as you received Christ Jesus the Lord, so walk in him, rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving.</p>\n<p><strong>Colossians 2:6-7</strong></p>\n<p>&nbsp;</p>\n<p>Spend 30 minutes in solitude connecting with God through Scripture and prayer. It may be helpful to do things that help you focus on God (whether that is journaling, silence, getting out in nature, etc.). </p>",
           "questions": [
             {
@@ -1434,7 +1434,7 @@ export class QuestionsService {
         {
           "id": 41,
           "title": "Fight distraction by spending 30 minutes alone with God.",
-          "date": "2017-03-02",
+          "date": "2018-03-02",
           "content": "<p>&ldquo;A farmer is helpless to grow grain; all he can do is provide the right conditions for the growing of grain. He cultivates the ground, he plants the seed, he waters the plants, and then the natural forces of the earth take over and up comes the grain...This is the way it is with the spiritual disciplines&mdash;they are a way of sowing to the Spirit...By themselves the spiritual disciplines can do nothing; they can only get us to the place where something can be done.&rdquo;</p>\n<p><strong>&mdash;Richard J. Foster, <em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend 30 minutes in solitude connecting with God through Scripture and prayer. It may be helpful to do things that help you focus on God (whether that is journaling, silence, getting out in nature, etc.). </p>",
           "questions": [
             {
@@ -1467,7 +1467,7 @@ export class QuestionsService {
         {
           "id": 42,
           "title": "Fight distraction by spending 30 minutes alone with God.",
-          "date": "2017-03-03",
+          "date": "2018-03-03",
           "content": "<p>&ldquo;The last remaining place I&rsquo;m guaranteed to be alone with my thoughts is in the shower.&rdquo;</p>\n<p><strong>&mdash;Teddy Wayne</strong></p>\n<p>&nbsp;</p>\n<p>Spend 30 minutes in solitude connecting with God through Scripture and prayer. It may be helpful to do things that help you focus on God (whether that is journaling, silence, getting out in nature, etc.). </p>",
           "questions": [
             {
@@ -1500,7 +1500,7 @@ export class QuestionsService {
         {
           "id": 43,
           "title": "Fight distraction by fasting from TV & social media. ",
-          "date": "2017-03-04",
+          "date": "2018-03-04",
           "content": "<p>&ldquo;In the little cracks of time in my day, with my limited attention, I am more apt to speak into social media than I am to pray. That&rsquo;s the brute honesty of the situation. And because of this negligence, God feels more distant to my life as a result.&rdquo;</p>\n<p><strong>&mdash;Tony Reinke</strong></p>\n<p>&nbsp;</p>\n<p>The goal for this week is to refrain from all forms of TV and social media in an effort to reduce distractions and pay closer attention to what the things you are doing may be doing to you. As you do this, ask the Holy Spirit to give you insight into the patterns of your life. </p>",
           "questions": [
             {
@@ -1533,7 +1533,7 @@ export class QuestionsService {
         {
           "id": 44,
           "title": "Fight distraction by fasting from TV & social media. ",
-          "date": "2017-03-05",
+          "date": "2018-03-05",
           "content": "<p>&ldquo;I think TV addiction is probably the first addiction that people experience in life.&rdquo;</p>\n<p><strong>&mdash;Teal Burrell</strong></p>\n<p>&nbsp;</p>\n<p>The goal for this week is to refrain from all forms of TV and social media in an effort to reduce distractions and pay closer attention to what the things you are doing may be doing to you. As you do this, ask the Holy Spirit to give you insight into the patterns of your life. </p>",
           "questions": [
             {
@@ -1566,7 +1566,7 @@ export class QuestionsService {
         {
           "id": 45,
           "title": "Fight distraction by fasting from TV & social media. ",
-          "date": "2017-03-06",
+          "date": "2018-03-06",
           "content": "<p>&ldquo;For all the abuses and all the devastation of distraction, wasted hours, narcissistic self-promotion, and pornographic degradation, I see the computer and the smartphone as gifts of God&mdash;like papyrus and the codex and paper and the printing press.&rdquo;</p>\n<p><strong>&mdash;John Piper</strong></p>\n<p>&nbsp;</p>\n<p>The goal for this week is to refrain from all forms of TV and social media in an effort to reduce distractions and pay closer attention to what the things you are doing may be doing to you. As you do this, ask the Holy Spirit to give you insight into the patterns of your life. </p>",
           "questions": [
             {
@@ -1599,7 +1599,7 @@ export class QuestionsService {
         {
           "id": 46,
           "title": "Fight distraction by fasting from TV & social media. ",
-          "date": "2017-03-07",
+          "date": "2018-03-07",
           "content": "<p>&ldquo;And what if you spend five minutes getting yourself happily entertained in the morning, rather than facing the responsibilities of the day immediately, and you find at the end of those five minutes that they have drug you down into a silly, demeaning, small-minded, hollow, immature frame of mind?&rdquo;</p>\n<p><strong>&mdash;Tony Reinke</strong></p>\n<p>&nbsp;</p>\n<p>The goal for this week is to refrain from all forms of TV and social media in an effort to reduce distractions and pay closer attention to what the things you are doing may be doing to you. As you do this, ask the Holy Spirit to give you insight into the patterns of your life. </p>",
           "questions": [
             {
@@ -1632,7 +1632,7 @@ export class QuestionsService {
         {
           "id": 47,
           "title": "Fight distraction by fasting from TV & social media. ",
-          "date": "2017-03-08",
+          "date": "2018-03-08",
           "content": "<p>&ldquo;In the nitty-gritty of my daily life, repentance for idolatry may look as pedestrian as shutting off my email an hour earlier or resisting that alluring clickbait to go to bed.&rdquo;</p>\n<p><strong>&mdash;Tish Harrison Warren, <em>Liturgy of the Ordinary</em></strong></p>\n<p>&nbsp;</p>\n<p>The goal for this week is to refrain from all forms of TV and social media in an effort to reduce distractions and pay closer attention to what the things you are doing may be doing to you. As you do this, ask the Holy Spirit to give you insight into the patterns of your life. </p>",
           "questions": [
             {
@@ -1665,7 +1665,7 @@ export class QuestionsService {
         {
           "id": 48,
           "title": "Fight distraction by fasting from TV & social media. ",
-          "date": "2017-03-09",
+          "date": "2018-03-09",
           "content": "<p>&ldquo;I always feel it well just to put a few words of prayer between everything I do.&rdquo;</p>\n<p><strong>&mdash;Charles Spurgeon</strong></p>\n<p>&nbsp;</p>\n<p>The goal for this week is to refrain from all forms of TV and social media in an effort to reduce distractions and pay closer attention to what the things you are doing may be doing to you. As you do this, ask the Holy Spirit to give you insight into the patterns of your life. </p>",
           "questions": [
             {
@@ -1698,7 +1698,7 @@ export class QuestionsService {
         {
           "id": 49,
           "title": "Fight distraction by fasting from TV & social media. ",
-          "date": "2017-03-10",
+          "date": "2018-03-10",
           "content": "<p>If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. Set your minds on things that are above, not on things that are on earth.</p>\n<p><strong>Colossians 3:1-2</strong></p>\n<p>&nbsp;</p>\n<p>The goal for this week is to refrain from all forms of TV and social media in an effort to reduce distractions and pay closer attention to what the things you are doing may be doing to you. As you do this, ask the Holy Spirit to give you insight into the patterns of your life. </p>",
           "questions": [
             {
@@ -1731,7 +1731,7 @@ export class QuestionsService {
         {
           "id": 50,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-11",
+          "date": "2018-03-11",
           "content": "<p>&ldquo;The criteria for coming to Jesus is weariness. Come overwhelmed with life. Come with your wandering mind. Come messy...The very things we try to get rid of&mdash;our weariness, our distractedness, our messiness&mdash;are what get us in the front door! That&rsquo;s how the gospel works. That&rsquo;s how prayer works.&rdquo;</p>\n<p><strong>&mdash;Paul Miller, <em>A Praying Life</em></strong></p>\n<p>When Jesus&rsquo; taught his disciples how to pray, this is the rubric he gave them. As you use this prayer as an intentional structure in your set-aside prayer time, the goal is that it would also influence the way you pray to and interact with God throughout your daily life.</p>",
           "questions": [
             {
@@ -1769,7 +1769,7 @@ export class QuestionsService {
         {
           "id": 51,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-12",
+          "date": "2018-03-12",
           "content": "<p>&ldquo;Sometimes my morning prayer simply begins like this: Lord, I&rsquo;m tired, and I&rsquo;m grumpy, but I&rsquo;m here again.&rdquo;</p>\n<p><strong>&mdash;Ray Lowe</strong></p>",
           "questions": [
             {
@@ -1807,7 +1807,7 @@ export class QuestionsService {
         {
           "id": 52,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-13",
+          "date": "2018-03-13",
           "content": "<p>&ldquo;I have yet to meet a chronic worrier who enjoys an excellent prayer life.&rdquo;</p>\n<p><strong>&mdash;D.A. Carson</strong></p>",
           "questions": [
             {
@@ -1845,7 +1845,7 @@ export class QuestionsService {
         {
           "id": 53,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-14",
+          "date": "2018-03-14",
           "content": "<p>&ldquo;Time in prayer makes you even more dependent on God because you don&rsquo;t have as much time to get things done. Every minute spent in prayer is one less minute where you can be doing something &lsquo;productive.&rsquo; So the act of praying means that you have to rely more on God.&rdquo;</p>\n<p><strong>&mdash;Paul Miller, <em>A Praying Life</em></strong></p>",
           "questions": [
             {
@@ -1883,7 +1883,7 @@ export class QuestionsService {
         {
           "id": 54,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-15",
+          "date": "2018-03-15",
           "content": "<p>And when you pray, do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words. Do not be like them, for your Father knows what you need before you ask him.</p>\n<p><strong>Matthew 6:7-8</strong></p>",
           "questions": [
             {
@@ -1921,7 +1921,7 @@ export class QuestionsService {
         {
           "id": 55,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-16",
+          "date": "2018-03-16",
           "content": "<p>&ldquo;To pray in Jesus&rsquo; name is, essentially, to reground our relationship with God in the saving work of Jesus over and over again. It also means to recognize your status as a child of God, regardless of your inner state.&rdquo;</p>\n<p><strong>&mdash;Tim Keller, <em>Prayer</em></strong></p>",
           "questions": [
             {
@@ -1959,7 +1959,7 @@ export class QuestionsService {
         {
           "id": 56,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-17",
+          "date": "2018-03-17",
           "content": "<p>&ldquo;Lord, help me today to realize that you will be speaking to me thought the events of the day, through people, through things, and through all creation.<br />Give me ears, eyes and heart to perceive you, however veiled your presence may be.<br />Give me insight to see through the exterior of things to the interior truth.<br />Give me your Spirit of discernment.<br />O Lord, you know how busy I must be this day. If I forget you, do not forget me.<br />Amen.&rdquo;</p>\n<p><strong>&mdash;Jacob Astley (1579 - 1652)</strong></p>",
           "questions": [
             {
@@ -1997,7 +1997,7 @@ export class QuestionsService {
         {
           "id": 57,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-18",
+          "date": "2018-03-18",
           "content": "<p>&ldquo;I have so much to do today that I shall spend the first three hours in prayer.&rdquo;</p>\n<p><strong>&mdash;Martin Luther</strong></p>",
           "questions": [
             {
@@ -2035,7 +2035,7 @@ export class QuestionsService {
         {
           "id": 58,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-19",
+          "date": "2018-03-19",
           "content": "<p>&ldquo;A triune God would call us to converse with him...because he wants to share the joy he has. Prayer is our way of entering into the happiness of God himself.&rdquo;</p>\n<p><strong>&mdash;Tim Keller, <em>Prayer</em></strong></p>",
           "questions": [
             {
@@ -2073,7 +2073,7 @@ export class QuestionsService {
         {
           "id": 59,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-20",
+          "date": "2018-03-20",
           "content": "<p>&ldquo;Prayer is talking with God about what we&rsquo;re thinking and doing together; it is co-laboring with God to accomplish the good purposes of his kingdom.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard</strong></p>",
           "questions": [
             {
@@ -2111,7 +2111,7 @@ export class QuestionsService {
         {
           "id": 60,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-21",
+          "date": "2018-03-21",
           "content": "<p>Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you.</p>\n<p><strong>1 Thessalonians 5:16-18</strong></p>",
           "questions": [
             {
@@ -2149,7 +2149,7 @@ export class QuestionsService {
         {
           "id": 61,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-22",
+          "date": "2018-03-22",
           "content": "<p>&ldquo;Life with God reorders the world and invites us into silence and solitude, where our simmering anxieties and sorrows can be brought into God&rsquo;s healing presence.&rdquo;</p>\n<p><strong>&mdash;Mike Cosper, <em>Recapture the Wonder</em></strong></p>",
           "questions": [
             {
@@ -2187,7 +2187,7 @@ export class QuestionsService {
         {
           "id": 62,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-23",
+          "date": "2018-03-23",
           "content": "<p>&ldquo;Praying out loud can be helpful because it keeps you from getting lost in your head. It makes your thoughts concrete. But it is more than technique; it is also a statement of faith. You are audibly declaring your belief in a God who is alive&hellip;This helps me become much more aware of my need. My prayers become more serious.&rdquo;</p>\n<p><strong>&mdash;Paul Miller, <em>A Praying Life</em></strong></p>",
           "questions": [
             {
@@ -2225,7 +2225,7 @@ export class QuestionsService {
         {
           "id": 63,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-24",
+          "date": "2018-03-24",
           "content": "<p>&ldquo;The imaginary self can be very successful in the world, and may even be celebrated by the church, but it can never truly pray because our Lord only accepts the company of real sinners and never imaginary saints.&rdquo;</p>\n<p><strong>&mdash;Skye Jethani</strong></p>",
           "questions": [
             {
@@ -2263,7 +2263,7 @@ export class QuestionsService {
         {
           "id": 64,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-25",
+          "date": "2018-03-25",
           "content": "<p>&ldquo;Our prayers should arise out of immersion in the Scripture. We speak only to the degree we are spoken to...The wedding of the Bible and prayer anchors your life down in the real God.&rdquo;</p>\n<p><strong>&mdash;Tim Keller, <em>Prayer</em></strong></p>",
           "questions": [
             {
@@ -2301,7 +2301,7 @@ export class QuestionsService {
         {
           "id": 65,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-26",
+          "date": "2018-03-26",
           "content": "<p>&ldquo;If we only knew how much we need God&rsquo;s grace, we would never lose touch with him.&rdquo;</p>\n<p><strong>&mdash;Brother Lawrence</strong></p>",
           "questions": [
             {
@@ -2339,7 +2339,7 @@ export class QuestionsService {
         {
           "id": 66,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-27",
+          "date": "2018-03-27",
           "content": "<p>&ldquo;To pray is to change. All who have walked with God have viewed prayer as the main business of their lives.&rdquo;</p>\n<p><strong>&mdash;Richard Foster, <em>Celebration of Discipline</em></strong></p>",
           "questions": [
             {
@@ -2377,7 +2377,7 @@ export class QuestionsService {
         {
           "id": 67,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-28",
+          "date": "2018-03-28",
           "content": "<p>Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.</p>\n<p><strong>Matthew 26:41</strong></p>",
           "questions": [
             {
@@ -2415,7 +2415,7 @@ export class QuestionsService {
         {
           "id": 68,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-29",
+          "date": "2018-03-29",
           "content": "<p>&ldquo;God will either give us what we ask or give us what we would have asked if we knew everything he knows.&rdquo;</p>\n<p><strong>&mdash;Tim Keller, <em>Prayer</em></strong></p>",
           "questions": [
             {
@@ -2453,7 +2453,7 @@ export class QuestionsService {
         {
           "id": 69,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-30",
+          "date": "2018-03-30",
           "content": "<p>&ldquo;Though the Christian life requires intense activity, it is not in the least self-reliant.\"</p>\n<p><strong>&mdash;J.I. Packer</strong></p>",
           "questions": [
             {
@@ -2491,7 +2491,7 @@ export class QuestionsService {
         {
           "id": 70,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-03-31",
+          "date": "2018-03-31",
           "content": "<p>&ldquo;In the Christian life, there are no shortcuts...There is only the slow and patient work of showing up, reordering our days, seeking God in word and prayer, and looking for him with a moment-to-moment awareness.&rdquo;</p>\n<p><strong>&mdash;Mike Cosper, <em>Recapture the Wonder</em></strong></p>",
           "questions": [
             {
@@ -2529,7 +2529,7 @@ export class QuestionsService {
         {
           "id": 71,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-04-01",
+          "date": "2018-04-01",
           "content": "<p>&ldquo;The best news of the Christian gospel is that the supremely glorious Creator of the universe has acted in Jesus Christ's death and resurrection to remove every obstacle between us and himself so that we may find everlasting joy in seeing and savoring his infinite beauty.&rdquo;</p>\n<p><strong>&mdash;John Piper</strong></p>",
           "questions": [
             {
@@ -2567,7 +2567,7 @@ export class QuestionsService {
         {
           "id": 72,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-04-02",
+          "date": "2018-04-02",
           "content": "<p>&ldquo;Our time frames are not in touch with ultimate reality. Our perspective on timing compared with God's is analogous to a two-year-old&rsquo;s with an adult&rsquo;s. God has good reasons for making us wait a long time to see some prayers answered.&rdquo;</p>\n<p>&mdash;<strong>Tim Keller,<em> Prayer</em></strong></p>",
           "questions": [
             {
@@ -2605,7 +2605,7 @@ export class QuestionsService {
         {
           "id": 73,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-04-03",
+          "date": "2018-04-03",
           "content": "<p>But when you pray, go into your room and shut the door and pray to your Father who is in secret. And your Father who sees in secret will reward you.</p>\n<p><strong>Matthew 6:6</strong></p>",
           "questions": [
             {
@@ -2643,7 +2643,7 @@ export class QuestionsService {
         {
           "id": 74,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-04-04",
+          "date": "2018-04-04",
           "content": "<p>&ldquo;We can&rsquo;t even sleep in our own strength.&rdquo;</p>\n<p><strong>&mdash;John Piper</strong></p>",
           "questions": [
             {
@@ -2681,7 +2681,7 @@ export class QuestionsService {
         {
           "id": 75,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-04-05",
+          "date": "2018-04-05",
           "content": "<p>&ldquo;There is not in the world a kind of life more sweet and delightful, than that of a continual conversation with God.&rdquo;</p>\n<p><strong>&mdash;Brother Lawrence</strong></p>",
           "questions": [
             {
@@ -2719,7 +2719,7 @@ export class QuestionsService {
         {
           "id": 76,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-04-06",
+          "date": "2018-04-06",
           "content": "<p>&ldquo;Oddly enough, many people struggle to pray because they are focusing on praying, not on God.&rdquo;</p>\n<p><strong>&mdash;Paul Miller, <em>A Praying Life</em></strong></p>",
           "questions": [
             {
@@ -2757,7 +2757,7 @@ export class QuestionsService {
         {
           "id": 77,
           "title": "Fight self-reliance by praying The Lord’s Prayer.",
-          "date": "2017-04-07",
+          "date": "2018-04-07",
           "content": "<p>&ldquo;Don&rsquo;t seek to develop a prayer life&mdash;seek a praying life. A &lsquo;prayer life&rsquo; is a segmented time for prayer. You&rsquo;ll end feeling guilty that you don&rsquo;t spend more time in prayer. Eventually you&rsquo;ll probably feel defeated and give up. A &lsquo;praying life&rsquo; is a life that is saturated with prayerfulness&mdash;you seek to do all that you do with the Lord.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard</strong></p>",
           "questions": [
             {
@@ -2795,7 +2795,7 @@ export class QuestionsService {
         {
           "id": 78,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-08",
+          "date": "2018-04-08",
           "content": "<p>&ldquo;Whenever the Christian idea of meditation is taken seriously, there are those who assume it is synonymous with the concept of meditation centered in Eastern religions. In reality, the two ideas stand worlds apart. Eastern meditation is an attempt to empty the mind; Christian meditation is an attempt to fill the mind. The two ideas are quite different.&rdquo;</p>\n<p>&mdash;<strong>Richard Foster</strong>, <strong><em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>John 20:19-31</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2808,7 +2808,7 @@ export class QuestionsService {
         {
           "id": 79,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-09",
+          "date": "2018-04-09",
           "content": "<p>&ldquo;The movement from na&iuml;ve optimism to cynicism is the new American journey...Because it is uncomfortable to feel our unbelief, to come face-to-face with our cynicism, we dull our souls with the narcotic of activity. Many Christians haven&rsquo;t stopped believing in God, we have just become functional deists.&rdquo;</p>\n<p><strong>&mdash;Paul Miller, <em>A Praying Life</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Luke 24:1-12</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2821,7 +2821,7 @@ export class QuestionsService {
         {
           "id": 80,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-10",
+          "date": "2018-04-10",
           "content": "<p>For whatever was written in former days was written for our instruction, that through endurance and through the encouragement of the Scriptures we might have hope.</p>\n<p><strong>Romans 15:4</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Luke 24:13-35</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2834,7 +2834,7 @@ export class QuestionsService {
         {
           "id": 81,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-11",
+          "date": "2018-04-11",
           "content": "<p>&ldquo;Failure to know what God is really like and what his law requires destroys the soul, ruins society, and leaves people to eternal ruin&hellip;This is the tragic condition of Western culture today, which has put away the information about God that God himself has made available.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>Renovation of the Heart in Daily Practice</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Luke 24:36-53</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2847,7 +2847,7 @@ export class QuestionsService {
         {
           "id": 82,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-12",
+          "date": "2018-04-12",
           "content": "<p>Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the Lord, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in due season, and its leaf does not wither. In all that he does, he prospers.</p>\n<p><strong>Psalm 1:1-2</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>John 16:1-15</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2860,7 +2860,7 @@ export class QuestionsService {
         {
           "id": 83,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-13",
+          "date": "2018-04-13",
           "content": "<p>&ldquo;Christian meditation, very simply, is the ability to hear God&rsquo;s voice and obey his word. It is that simple&hellip;It involves no hidden mysteries, no secret mantras, no mental gymnastics, no esoteric flights into the cosmic consciousness.&rdquo;</p>\n<p><strong>&mdash;Richard Foster, <em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>John 16:16-24</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2873,7 +2873,7 @@ export class QuestionsService {
         {
           "id": 84,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-14",
+          "date": "2018-04-14",
           "content": "<p>My soul will be satisfied as with fat and rich food, and my mouth will praise you with joyful lips, when I remember you upon my bed, and meditate on you in the watches of the night.</p>\n<p><strong>Psalm 63:5-6</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>John 16:25-33</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2886,7 +2886,7 @@ export class QuestionsService {
         {
           "id": 85,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-15",
+          "date": "2018-04-15",
           "content": "<p>&ldquo;In the discipline of meditation we are not so much acting as we are opening ourselves to be acted upon. We invite the Holy Spirit to come and work within us&mdash;teaching, cleansing, comforting, rebuking.&rdquo;</p>\n<p><strong>&mdash;Richard Foster</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>John 14:15-27</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2899,7 +2899,7 @@ export class QuestionsService {
         {
           "id": 86,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-16",
+          "date": "2018-04-16",
           "content": "<p>&ldquo;To read certain verses to fulfill a Bible reading system is not to take the Scripture in, to dwell upon it, to ponder its meaning and to explore its implications. Often, it&rsquo;s an effort to perform, to check off one more thing I need to do today to be a decent Christian. This explains why many folks know a lot of Bible trivia but do not meet God when they open the Scripture. To dwell, to ponder, to explore means reading slowly and wondering what life, reality, or even I personally would look like if this were <em>really</em> true. It means asking, What is God saying to me today?&rdquo;</p>\n<p><strong>&mdash;Jan Johnson</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Acts 2:1-21</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2912,7 +2912,7 @@ export class QuestionsService {
         {
           "id": 87,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-17",
+          "date": "2018-04-17",
           "content": "<p>I remember the days of old; I meditate on all that you have done; I ponder the work of your hands. I stretch out my hands to you; my soul thirsts for you like a parched land.</p>\n<p><strong>Psalm 143:5-6</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Acts 2:22-36</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2925,7 +2925,7 @@ export class QuestionsService {
         {
           "id": 88,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-18",
+          "date": "2018-04-18",
           "content": "<p>&ldquo;The most obvious thing we can do is draw certain key portions of Scripture into our mind and make them a part of the permanent fixtures of thought. This is the primary discipline for the thought life. We need to know these passages like the back of our hand, and a good way to do that is to memorize them and then <em>constantly turn them over</em> in our mind as we go through the events and circumstances of our lives.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>Renovation of the Heart in Daily Practice</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Acts 2:37-47</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2938,7 +2938,7 @@ export class QuestionsService {
         {
           "id": 89,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-19",
+          "date": "2018-04-19",
           "content": "<p>It is the LORD who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed.</p>\n<p><strong>Deuteronomy 31:8</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Acts&nbsp;4:1-21</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2951,7 +2951,7 @@ export class QuestionsService {
         {
           "id": 90,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-20",
+          "date": "2018-04-20",
           "content": "<p>&ldquo;The Bible uses two different Hebrew words to convey the idea of meditation, and together they are used some fifty-eight times. These words have various meanings: listening to God&rsquo;s word, reflecting on God&rsquo;s works, rehearsing God&rsquo;s deeds, ruminating on God&rsquo;s law, and more. In each case there is stress upon changed behavior as a result of our encounter with the living God. Repentance and obedience are essential features in any biblical understanding of meditation.&rdquo;</p>\n<p><strong>&mdash;Richard Foster, <em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Acts&nbsp;4:23-37</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2964,7 +2964,7 @@ export class QuestionsService {
         {
           "id": 91,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-21",
+          "date": "2018-04-21",
           "content": "<p>Only to sit and think of God,<br />Oh what a joy it is!<br />To think the thought, to breathe the Name<br />Earth has no higher bliss.</p>\n<p><strong>&mdash;Frederick W. Faber</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Galatians 5:13-25</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2977,7 +2977,7 @@ export class QuestionsService {
         {
           "id": 92,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-22",
+          "date": "2018-04-22",
           "content": "<p>&ldquo;God is not impassive toward us, like an unresponsive pagan idol; he calls us to grow into a life of personal interchange with him that does justice to the idea of our being his children.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>Hearing God</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Acts 9:1-19</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -2990,7 +2990,7 @@ export class QuestionsService {
         {
           "id": 93,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-23",
+          "date": "2018-04-23",
           "content": "<p>&ldquo;The purpose of meditation is to enable us to hear God more clearly. Meditation is listening, sensing, heeding the life and light of Christ. This comes right to the heart of our faith. The life that pleases God is not a set of religious duties; it is to hear His voice and obey His word. Meditation opens the door to this way of living.&rdquo;</p>\n<p><strong>&mdash;Richard Foster, <em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Romans 5:1-11</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -3003,7 +3003,7 @@ export class QuestionsService {
         {
           "id": 94,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-24",
+          "date": "2018-04-24",
           "content": "<p>&ldquo;Meditation on the Scriptures has occupied a deep and enduring place in the history of the church as one of the most enjoyed means of God&rsquo;s grace for his people.&rdquo;</p>\n<p><strong>&mdash;David Mathis, <em>Habits of Grace</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Romans&nbsp;7:15-25</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -3016,7 +3016,7 @@ export class QuestionsService {
         {
           "id": 95,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-25",
+          "date": "2018-04-25",
           "content": "<p>&ldquo;The biblical foundation for meditation, and the wonderful news is that Jesus has not stopped acting and speaking. He is resurrected and at work in our world. He is not idle, nor has he developed laryngitis. He is alive and among us as our Priest to forgive us, our Prophet to teach us, our King to rule us, our Shepherd to guide us.&rdquo;</p>\n<p><strong>&mdash;Richard Foster, <em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Romans&nbsp;8:1-11</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -3029,7 +3029,7 @@ export class QuestionsService {
         {
           "id": 96,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-26",
+          "date": "2018-04-26",
           "content": "<p>&ldquo;Ideas and images are the primary focus of Satan&rsquo;s efforts to defeat God&rsquo;s purposes with and for humankind. When we are subject to Satan&rsquo;s ideas and images, he can take a holiday. Thus, when he undertook to draw Eve away from God, he did not hit her with a stick, but with an idea: that God could not be trusted and that she must act on her own to secure her own well-being. The single most important thing in our mind is our idea of God and the images associated with it.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>Renovation of the Heart in Daily Practice</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Romans&nbsp;8:12-17</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -3042,7 +3042,7 @@ export class QuestionsService {
         {
           "id": 97,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-27",
+          "date": "2018-04-27",
           "content": "<p>&ldquo;When we constantly and thoughtfully engage ourselves with the ideas, images, and information that are provided by God through the Scriptures&hellip;we are nourished by the Holy Spirit in ways far beyond our own efforts or understanding. This transforms our entire life.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>Renovation of the Heart in Daily Practice</em></strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Romans&nbsp;8:18-30</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -3055,7 +3055,7 @@ export class QuestionsService {
         {
           "id": 98,
           "title": "Fight cynicism by meditating on Scripture.",
-          "date": "2017-04-28",
+          "date": "2018-04-28",
           "content": "<p>This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success.</p>\n<p><strong>Joshua 1:8</strong></p>\n<p>&nbsp;</p>\n<p>Spend at least 15 minutes today meditating on the following passage (a paper Bible is preferred). The goal for this practice is for God&rsquo;s words to encourage our belief and trust in him.</p>\n<p><strong>Romans&nbsp;8:31-39</strong></p>\n<p>&nbsp;</p>\n<p><strong>Questions to ask as you meditate:</strong></p>\n<ul>\n<li>What does this passage reveal about God?</li>\n<li>What does this passage reveal about me?</li>\n<li>What sticks out the most to me, and why?</li>\n<li>How do I need to repent or change?</li>\n<li>How do I need God&rsquo;s help with this?</li>\n<li>Who do I know that I could encourage with this truth?</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Suggested ways to help you meditate on Scripture (do in any order you like): </strong></p>\n<ul>\n<li>Ask the Holy Spirit to clear your mind of any distractions and help you focus. Ask him to convict and encourage you by pointing your heart to Jesus through the passage.</li>\n<li>Read the passage multiple times.</li>\n<li>Try to put yourself in the passage and feel with your senses what it would have felt like to be there. If it&rsquo;s a narrative, picture yourself in the story. If it&rsquo;s a letter, try to imagine who is writing it and who is receiving it. What is their life like, and how would they feel hearing this?</li>\n<li>Ask the Holy Spirit to point out specific words, phrases, or ideas to you as you read.</li>\n<li>If anything in the passage reveals a weakness in you, try turning that portion into a prayer.</li>\n<li>Read the passage out loud (if that helps you concentrate on it).</li>\n<li>Write out the passage, or portions of it, in a journal.</li>\n<li>Focus on a certain verse or section, turning it over in your mind until it lodges in your memory.</li>\n<li>Pray and thank God for the truths about him that the passage reveals.</li>\n</ul>",
           "questions": [
             {
@@ -3068,7 +3068,7 @@ export class QuestionsService {
         {
           "id": 99,
           "title": "Fight self-absorption by praying for one person for 10 minutes.",
-          "date": "2017-04-29",
+          "date": "2018-04-29",
           "content": "<p>&ldquo;Prayer gives us relief from the melancholy burden of self-absorption.&rdquo;</p>\n<p><strong>&mdash;Tim Keller, <em>Prayer</em></strong></p>\n<p>&nbsp;</p>\n<p>Ask the Holy Spirit to reveal one person in your life that you can pray for for at least 10 minutes today. If you need help picking a person, think through your friends, family members, LifeGroup members, coworkers, neighbors, etc. You could also pull up your contacts list on your phone or a social media app to brainstorm people and ask God to point someone out to you.</p>\n<p>It may be helpful to write out things that are going on in their life in a journal to help you focus on how you can pray for them.</p>\n<p>&nbsp;</p>",
           "questions": [
             {
@@ -3096,7 +3096,7 @@ export class QuestionsService {
         {
           "id": 100,
           "title": "Fight self-absorption by praying for one person for 10 minutes.",
-          "date": "2017-04-30",
+          "date": "2018-04-30",
           "content": "<p>&ldquo;I am not naturally a people person, but when I regularly pray for people using some kind of written system, my heart tunes in to them. I am bolder about asking them how things are going because they are already on my heart...How would you love someone without prayer?\"</p>\n<p><strong>&mdash;Paul Miller, <em>A Praying Life</em></strong></p>\n<p>&nbsp;</p>\n<p>Ask the Holy Spirit to reveal one person in your life that you can pray for for at least 10 minutes today. It may be helpful to write out things that are going on in their life in a journal to help you focus on how you can pray for them.</p>",
           "questions": [
             {
@@ -3124,7 +3124,7 @@ export class QuestionsService {
         {
           "id": 101,
           "title": "Fight self-absorption by praying for one person for 10 minutes.",
-          "date": "2017-05-01",
+          "date": "2018-05-01",
           "content": "<p>&ldquo;How rarely are we ever truly listened to, and how deep is our need to be heard. I wonder how much wrath in human life is a result of not being heard.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>The Spirit of the Disciplines</em></strong></p>\n<p>&nbsp;</p>\n<p>Ask the Holy Spirit to reveal one person in your life that you can pray for for at least 10 minutes today. It may be helpful to write out things that are going on in their life in a journal to help you focus on how you can pray for them.</p>",
           "questions": [
             {
@@ -3152,7 +3152,7 @@ export class QuestionsService {
         {
           "id": 102,
           "title": "Fight self-absorption by praying for one person for 10 minutes.",
-          "date": "2017-05-02",
+          "date": "2018-05-02",
           "content": "<p>Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working.</p>\n<p><strong>James 5:16</strong></p>\n<p>&nbsp;</p>\n<p>Ask the Holy Spirit to reveal one person in your life that you can pray for for at least 10 minutes today. It may be helpful to write out things that are going on in their life in a journal to help you focus on how you can pray for them.</p>",
           "questions": [
             {
@@ -3180,7 +3180,7 @@ export class QuestionsService {
         {
           "id": 103,
           "title": "Fight self-absorption by praying for one person for 10 minutes.",
-          "date": "2017-05-03",
+          "date": "2018-05-03",
           "content": "<p>&ldquo;The battleground is between our ears. What is it that is capturing your idle thoughts? What fear or frustration is filling your spare moments? Will you just listen to yourself, or will you start talking? No, preaching&mdash;not letting your concerns shape you, but forming your concerns by the power of the gospel.&rdquo;</p>\n<p>&mdash;<strong>David Mathis</strong>, <strong><em>Habits of Grace</em></strong></p>\n<p>&nbsp;</p>\n<p>Ask the Holy Spirit to reveal one person in your life that you can pray for for at least 10 minutes today. It may be helpful to write out things that are going on in their life in a journal to help you focus on how you can pray for them.</p>",
           "questions": [
             {
@@ -3208,7 +3208,7 @@ export class QuestionsService {
         {
           "id": 104,
           "title": "Fight self-absorption by praying for one person for 10 minutes.",
-          "date": "2017-05-04",
+          "date": "2018-05-04",
           "content": "<p>&ldquo;Often in praying for people I am given a picture of their condition, and when I share that picture with them, there will be a deep inner sigh, or they will begin weeping. Later they will ask &lsquo;How did you know?&rsquo; Well, I didn&rsquo;t know, I just saw it.&rdquo;</p>\n<p><strong>&mdash;Richard Foster, <em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Ask the Holy Spirit to reveal one person in your life that you can pray for for at least 10 minutes today. It may be helpful to write out things that are going on in their life in a journal to help you focus on how you can pray for them.</p>",
           "questions": [
             {
@@ -3236,7 +3236,7 @@ export class QuestionsService {
         {
           "id": 105,
           "title": "Fight self-absorption by praying for one person for 10 minutes.",
-          "date": "2017-05-05",
+          "date": "2018-05-05",
           "content": "<p>Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.</p>\n<p><strong>Romans 8:26</strong></p>\n<p>&nbsp;</p>\n<p>Ask the Holy Spirit to reveal one person in your life that you can pray for for at least 10 minutes today. It may be helpful to write out things that are going on in their life in a journal to help you focus on how you can pray for them.</p>",
           "questions": [
             {
@@ -3264,7 +3264,7 @@ export class QuestionsService {
         {
           "id": 106,
           "title": "Fight self-absorption by encouraging someone.",
-          "date": "2017-05-06",
+          "date": "2018-05-06",
           "content": "<p>Therefore encourage one another and build one another up, just as you are doing.</p>\n<p><strong>1 Thessalonians 5:11</strong></p>\n<p>&nbsp;</p>\n<p>As you go throughout your day, ask God to give you eyes to see his work in those around you. With God&rsquo;s help, choose at least one person to speak life into by encouraging them with your words. The goal is to point others&rsquo; attention to how God is at work in their lives, how he loves them and is pursuing them, etc. We want to offer substantial and meaningful spiritual encouragement, not just say &ldquo;I like your shirt.&rdquo;</p>\n<p>Again&mdash;if you need help picking a person, think through your friends, family members, LifeGroup members, coworkers, neighbors, etc. You could also pull up your contacts list on your phone or a social media app to brainstorm people and ask God to point someone out to you.</p>",
           "questions": [
             {
@@ -3292,7 +3292,7 @@ export class QuestionsService {
         {
           "id": 107,
           "title": "Fight self-absorption by encouraging someone.",
-          "date": "2017-05-07",
+          "date": "2018-05-07",
           "content": "<p>&ldquo;Very few people experience the gift of your <em>full and uninhibited attention. </em>Give them that gift.&rdquo;</p>\n<p><strong>&mdash;Benjamin Hardy</strong></p>\n<p>&nbsp;</p>\n<p>As you go throughout your day, ask God to give you eyes to see his work in those around you. With God&rsquo;s help, choose at least one person to speak life into by encouraging them with your words.</p>",
           "questions": [
             {
@@ -3320,7 +3320,7 @@ export class QuestionsService {
         {
           "id": 108,
           "title": "Fight self-absorption by encouraging someone.",
-          "date": "2017-05-08",
+          "date": "2018-05-08",
           "content": "<p>&ldquo;Books don&rsquo;t change people, paragraphs do&mdash;sometimes sentences.&rdquo;</p>\n<p><strong>&mdash;John Piper</strong></p>\n<p>&nbsp;</p>\n<p>As you go throughout your day, ask God to give you eyes to see his work in those around you. With God&rsquo;s help, choose at least one person to speak life into by encouraging them with your words.</p>",
           "questions": [
             {
@@ -3348,7 +3348,7 @@ export class QuestionsService {
         {
           "id": 109,
           "title": "Fight self-absorption by encouraging someone.",
-          "date": "2017-05-09",
+          "date": "2018-05-09",
           "content": "<p>&ldquo;What our neighbor needs is often something we don&rsquo;t know, and so we need to be guided.&rdquo;</p>\n<p><strong>&mdash;Dallas Willard, <em>Hearing God</em></strong></p>\n<p>&nbsp;</p>\n<p>As you go throughout your day, ask God to give you eyes to see his work in those around you. With God&rsquo;s help, choose at least one person to speak life into by encouraging them with your words.</p>",
           "questions": [
             {
@@ -3376,7 +3376,7 @@ export class QuestionsService {
         {
           "id": 110,
           "title": "Fight self-absorption by encouraging someone.",
-          "date": "2017-05-10",
+          "date": "2018-05-10",
           "content": "<p>But exhort one another every day, as long as it is called &ldquo;today,&rdquo; that none of you may be hardened by the deceitfulness of sin.</p>\n<p><strong>Hebrews 3:13</strong></p>\n<p>&nbsp;</p>\n<p>As you go throughout your day, ask God to give you eyes to see his work in those around you. With God&rsquo;s help, choose at least one person to speak life into by encouraging them with your words.</p>",
           "questions": [
             {
@@ -3404,7 +3404,7 @@ export class QuestionsService {
         {
           "id": 111,
           "title": "Fight self-absorption by encouraging someone.",
-          "date": "2017-05-11",
+          "date": "2018-05-11",
           "content": "<p>&ldquo;Perhaps phone addiction is making it harder to be the sort of person who is good at deep friendship. In lives that are already crowded and stressful, it&rsquo;s easier to let banter crowd out emotional presence...You can have a day of happy touch points without any of the scary revelations, or the boring, awkward or uncontrollable moments that constitute actual intimacy.&rdquo;</p>\n<p><strong>&mdash;David Brooks</strong></p>\n<p>&nbsp;</p>\n<p>As you go throughout your day, ask God to give you eyes to see his work in those around you. With God&rsquo;s help, choose at least one person to speak life into by encouraging them with your words.</p>",
           "questions": [
             {
@@ -3432,7 +3432,7 @@ export class QuestionsService {
         {
           "id": 112,
           "title": "Fight self-absorption by encouraging someone.",
-          "date": "2017-05-12",
+          "date": "2018-05-12",
           "content": "<p>&ldquo;Some people only go as far as their regular devotions, stopping there and neglecting love, which is the purpose of these devotions. This could easily be seen in their actions and explained why they possessed no solid virtue.&rdquo;</p>\n<p><strong>&mdash;Brother Lawrence, <em>Practicing the Presence of God</em></strong></p>\n<p>&nbsp;</p>\n<p>As you go throughout your day, ask God to give you eyes to see his work in those around you. With God&rsquo;s help, choose at least one person to speak life into by encouraging them with your words.</p>",
           "questions": [
             {
@@ -3460,7 +3460,7 @@ export class QuestionsService {
         {
           "id": 113,
           "title": "Fight self-absorption by serving someone.",
-          "date": "2017-05-13",
+          "date": "2018-05-13",
           "content": "<p>And whoever would be first among you must be servant of all. For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.</p>\n<p><strong>Mark 10:44-45</strong></p>\n<p>&nbsp;</p>\n<p>Look for an opportunity today, even if it&rsquo;s a small one, where you can lay down your preferences and sacrificially serve someone in your life. Think ahead and try to anticipate what opportunities you might have to do something unexpected during your day, and also be open to things that come up in the moment. Anything done in a spirit of service and self-denial counts, but the more thoughtful and intentional the act the better!</p>",
           "questions": [
             {
@@ -3488,7 +3488,7 @@ export class QuestionsService {
         {
           "id": 114,
           "title": "Fight self-absorption by serving someone.",
-          "date": "2017-05-14",
+          "date": "2018-05-14",
           "content": "<p>&ldquo;What fun it would be,&rdquo; he thought, &ldquo;if one didn&rsquo;t have to think about happiness!&rdquo;</p>\n<p><strong>&mdash;Aldous Huxley, <em>Brave New World</em></strong></p>\n<p>&nbsp;</p>\n<p>Look for an opportunity today, even if it’s a small one, where you can lay down your preferences and sacrificially serve someone in your life.</p>",
           "questions": [
             {
@@ -3516,7 +3516,7 @@ export class QuestionsService {
         {
           "id": 115,
           "title": "Fight self-absorption by serving someone.",
-          "date": "2017-05-15",
+          "date": "2018-05-15",
           "content": "<p>&ldquo;Nothing disciplines the inordinate desires of the flesh like service, and nothing transforms the desires of the flesh like serving in hiddenness. The flesh whines against service but screams against hidden service. It strains and pulls for honour and recognition. It will devise subtle, religiously acceptable means to call attention to the service rendered. If we stoutly refuse to give in to this lust of the flesh, we crucify it.&rdquo;</p>\n<p>&mdash;<strong>Richard Foster</strong>, <strong><em>Celebration of Discipline</em></strong></p>\n<p>&nbsp;</p>\n<p>Look for an opportunity today, even if it’s a small one, where you can lay down your preferences and sacrificially serve someone in your life.</p>",
           "questions": [
             {
@@ -3544,7 +3544,7 @@ export class QuestionsService {
         {
           "id": 116,
           "title": "Fight self-absorption by serving someone.",
-          "date": "2017-05-16",
+          "date": "2018-05-16",
           "content": "<p>&ldquo;We love people universally by loving the particular people we know and can name...Ordinary love, anonymous and unnoticed as it is, is the substance of peace on earth, the currency of God&rsquo;s grace in our daily life.&rdquo;</p>\n<p><strong>&mdash;Tish Harrison Warren, <em>Liturgy of the Ordinary</em></strong></p>\n<p>&nbsp;</p>\n<p>Look for an opportunity today, even if it’s a small one, where you can lay down your preferences and sacrificially serve someone in your life.</p>",
           "questions": [
             {
@@ -3572,7 +3572,7 @@ export class QuestionsService {
         {
           "id": 117,
           "title": "Fight self-absorption by serving someone.",
-          "date": "2017-05-17",
+          "date": "2018-05-17",
           "content": "<p>When he had washed their feet and put on his outer garments and resumed his place, he said to them, &ldquo;Do you understand what I have done to you? You call me Teacher and Lord, and you are right, for so I am. If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that you also should do just as I have done to you.&rdquo;</p>\n<p><strong>John 13:12-15</strong></p>\n<p>&nbsp;</p>\n<p>Look for an opportunity today, even if it’s a small one, where you can lay down your preferences and sacrificially serve someone in your life.</p>",
           "questions": [
             {
@@ -3600,7 +3600,7 @@ export class QuestionsService {
         {
           "id": 118,
           "title": "Fight self-absorption by serving someone.",
-          "date": "2017-05-18",
+          "date": "2018-05-18",
           "content": "<p>&ldquo;True godliness does not turn men out of the world, but enables them to live better in it and excites their endeavors to mend it.&rdquo;</p>\n<p><strong>&mdash;William Penn</strong></p>\n<p>&nbsp;</p>\n<p>Look for an opportunity today, even if it’s a small one, where you can lay down your preferences and sacrificially serve someone in your life.</p>",
           "questions": [
             {
@@ -3628,7 +3628,7 @@ export class QuestionsService {
         {
           "id": 119,
           "title": "Fight self-absorption by serving someone.",
-          "date": "2017-05-19",
+          "date": "2018-05-19",
           "content": "<p>&ldquo;Christian holiness is not a free-floating goodness removed from the world, a few feet above the ground. It is specific and, in some sense, tailored to who we particularly are...We can&rsquo;t be holy in the abstract. Instead we become a holy blacksmith or a holy mother or a holy physician or a holy systems analyst.&rdquo;</p>\n<p><strong>&mdash;Tish Harrison Warren, <em>Liturgy of the Ordinary</em></strong></p>\n<p>&nbsp;</p>\n<p>Look for an opportunity today, even if it’s a small one, where you can lay down your preferences and sacrificially serve someone in your life.</p>",
           "questions": [
             {
@@ -3656,7 +3656,7 @@ export class QuestionsService {
         {
           "id": 120,
           "title": "Reflect on God’s grace & plan for the future.",
-          "date": "2017-05-20",
+          "date": "2018-05-20",
           "content": "<p>&ldquo;Insight is not change. It feels like change, but it is not.&rdquo;</p>\n<p><strong>&mdash;Steve Von Fange</strong></p>\n<p>&nbsp;</p>\n<p>Today is the last day of this series, but what you have learned doesn&rsquo;t have to stop here. Spend some time reflecting on the past several months, the challenges you participated in, and the spiritual disciplines you practiced.</p>",
           "questions": [
             {

@@ -36,7 +36,6 @@ page_5 {
 		p > p > strong > em {
 			color: black;
 			font-family: 'Gotham Bold Regular';
-			font-style: normal;
 		}
 
 		[title-card] {
@@ -89,6 +88,10 @@ page_5 {
 
 				img + p strong {
 					font-family: 'Gotham Bold Regular';
+				}
+
+				p > p > strong > em {
+					font-style: normal;
 				}
 
 			}

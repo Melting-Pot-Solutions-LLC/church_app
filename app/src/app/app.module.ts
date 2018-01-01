@@ -18,6 +18,7 @@ import { DayDotsComponent } from '../components/day-dots/day-dots';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { NativeStorage } from '@ionic-native/native-storage';
+import { InAppBrowser } from '@ionic-native/in-app-browser';
 import { QuestionsService } from '../services/questions';
 import { TestedDateService } from '../services/testedDate';
 import { UserAnswers } from '../services/user-answers';
@@ -65,6 +66,7 @@ import { ElasticTextareaDirective } from '../directives/elastic-textarea/elastic
     StatusBar,
     SplashScreen,
     NativeStorage,
+    InAppBrowser,
     QuestionsService,
     TestedDateService,
     UserAnswers,
