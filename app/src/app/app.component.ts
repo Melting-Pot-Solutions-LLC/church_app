@@ -33,6 +33,7 @@ export class MyApp {
 
       let start = new Date(2018, 0, 21);//Month is 0-11 in JavaScript
       let end = new Date(2018, 4, 20);//Month is 0-11 in JavaScript
+      let tmpStart = new Date(2018, 0, 5);
       // Set 1 day in milliseconds
       let one_day = 1000*60*60*24;
       setDate.setHours(2,0,0,0);
@@ -43,9 +44,9 @@ export class MyApp {
         numberOfDaysElapsed = -1;
       
       // Calculate difference btw the two dates, and convert to days
-      if(numberOfDaysElapsed >= 0 && numberOfDaysElapsed <= 120)
+      if (numberOfDaysElapsed >= 0 && numberOfDaysElapsed <= 120)
         this.rootPage = TabsPage
-      else if(numberOfDaysElapsed < 0)
+      else if ((numberOfDaysElapsed < 0) && (this.testingService.getTestedDate().getTime() < tmpStart.getTime()))
         this.rootPage = Page6
       else
         this.rootPage = TabsPage;

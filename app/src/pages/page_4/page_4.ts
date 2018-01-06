@@ -71,7 +71,7 @@ export class Page4 {
 			//only show days until today
 			let finalDate = testedDate.getDate();
 			if (passedMonth == "January")
-				finalDate = testedDate.getDate() - 20
+				finalDate = testedDate.getDate() - 4
 			else if ((passedMonth == "May") && (finalDate > 20))
 				finalDate = 20;
 			for(let i = 0; i < finalDate; i++)

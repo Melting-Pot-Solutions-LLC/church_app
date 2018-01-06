@@ -141,17 +141,13 @@ export class Page2 {
 
   onSave() {
     console.log("saving your info");
-    this.userAnswers.addANewDot(Math.abs(this.testingService.getNumberOfDaysElapse())).then(
-      () =>
-      {
-        // this.updateDots();
+    let numberOfDaysElapse = this.testingService.getNumberOfDaysElapse();
+    if (numberOfDaysElapse > -1)
+      this.userAnswers.addANewDot(numberOfDaysElapse).then(() => {
         this.dotsComponent.ngOnInit();
-      },
-      (error) =>
-      {
+      }, (error) => {
         console.log("addANewDot did not work, " + error);
-      }
-    );
+      });
     // this.dots.updateDots();
     this.userAnswers.setTodayAnswers(this.currentDate, this.todayAnswers).then(() => {
       this.loading = this.loadingCtrl.create
