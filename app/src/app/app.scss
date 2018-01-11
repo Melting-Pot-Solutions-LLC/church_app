@@ -99,7 +99,7 @@ ion-content {
 
 		[left-lines], [right-lines] {
 			padding: 17px 15px 0px;
-			max-width: 90px;
+			max-width: 21%;
 
 			img {
 				height: 100%;
@@ -108,13 +108,11 @@ ion-content {
 
 		[center-text] {
 			text-align: center;
-
-			h1 {
-				font-family: 'PersonalLiturgy Regular';
-		    font-size: 4rem;
-		    margin: 0px;
-		    color: #143d52;
-			}
+			font-family: 'PersonalLiturgy Regular';
+	    font-size: 4.5rem;
+	    margin: 0px;
+	    color: #143d52;
+	    white-space: nowrap;
 		}
 	}
 }

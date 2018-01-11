@@ -13,7 +13,7 @@
 		  <ion-grid no-padding>
 		    <ion-row [ngClass]="!completed_dates.includes(item.date) && 'not-completed'">
 		      <ion-col col-3>
-				    <h3>{{item.date_month}}</h3>
+				    <h3>{{item.date | amUtc | amDateFormat: 'MMM' | uppercase}}</h3>
 			    	<h1>{{item.date_day}}</h1>
 		      </ion-col>
 		      <ion-col col-9>

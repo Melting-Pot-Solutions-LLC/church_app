@@ -30,7 +30,7 @@ export class QuestionsService {
     [
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
+        "title": "Get in the habit of using the app every day.",
         "date": "2018-01-05",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
@@ -48,7 +48,7 @@ export class QuestionsService {
       },
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
+        "title": "Get in the habit of using the app every day.",
         "date": "2018-01-06",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
@@ -66,7 +66,7 @@ export class QuestionsService {
       },
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
+        "title": "Get in the habit of using the app every day.",
         "date": "2018-01-07",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
@@ -84,7 +84,7 @@ export class QuestionsService {
       },
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
+        "title": "Get in the habit of using the app every day.",
         "date": "2018-01-08",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
@@ -102,7 +102,7 @@ export class QuestionsService {
       },
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
+        "title": "Get in the habit of using the app every day.",
         "date": "2018-01-09",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
@@ -120,139 +120,13 @@ export class QuestionsService {
       },
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
+        "title": "Get in the habit of using the app every day.",
         "date": "2018-01-10",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
           {
             "id": "",
-            "title": "<p>What has been the most difficult thing you’ve had to forgive?</p>",
-            "type": "textarea"
-          },
-          {
-            "id": "",
-            "title": "<p>What things do you enjoy the most in life right now? </p>",
-            "type": "textarea"
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-11",
-        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
-        "questions": [
-          {
-            "id": "",
-            "title": "<p>What are you looking forward to in life right now? </p>",
-            "type": "textarea"
-          },
-          {
-            "id": "",
-            "title": "<p>What are you not looking forward to?</p>",
-            "type": "textarea"
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-12",
-        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
-        "questions": [
-          {
-            "id": "",
-            "title": "<p>What is your favorite thing that happened this week?</p>",
-            "type": "textarea"
-          },
-          {
-            "id": "",
-            "title": "<p>What is your least favorite thing that happened this week?</p>",
-            "type": "textarea"
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-13",
-        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
-        "questions": [
-          {
-            "id": "",
-            "title": "<p>What’s one of the weirdest things about you?</p>",
-            "type": "textarea"
-          },
-          {
-            "id": "",
-            "title": "<p>What is one of your biggest pet peeves?</p>",
-            "type": "textarea"
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-14",
-        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
-        "questions": [
-          {
-            "id": "",
-            "title": "<p>Is your life up until this point more or less what you thought it would be?</p>",
-            "type": "textarea"
-          },
-          {
-            "id": "",
-            "title": "<p>How has life met, exceeded, or disappointed your expectations so far?</p>",
-            "type": "textarea"
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-15",
-        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
-        "questions": [
-          {
-            "id": "",
-            "title": "<p>What is your favorite book you’ve read in the past few years? How did it affect you, and what did you learn from it?</p>",
-            "type": "textarea"
-          },
-          {
-            "id": "",
-            "title": "<p>What is your current practice of reading? If you were to guess, how many books do you read per year?</p>",
-            "type": "textarea"
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-16",
-        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
-        "questions": [
-          {
-            "id": "",
-            "title": "<p>What are some of your biggest fears in life?</p>",
-            "type": "textarea"
-          },
-          {
-            "id": "",
-            "title": "<p>What is something you do that you wish you didn’t do?</p>",
-            "type": "textarea"
-          }
-        ]
-      },
-      {
-        "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-17",
-        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
-        "questions": [
-          {
-            "id": "",
-            "title": "<p>What have you worried or thought about the most in the past month? </p>",
+            "title": "<p>What have you worried or thought about the most in the past month? Have you been taking your worries to God through consistent prayer?</p>",
             "type": "textarea"
           },
           {
@@ -264,13 +138,31 @@ export class QuestionsService {
       },
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-18",
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-11",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
           {
             "id": "",
-            "title": "<p>How healthy are your sleeping and eating habits?</p>",
+            "title": "<p>Has your life up until now been more or less what you thought it would be? How has life met, exceeded, or disappointed your expectations so far? </p>",
+            "type": "textarea"
+          },
+          {
+            "id": "",
+            "title": "<p>What things do you enjoy the most in life right now?</p>",
+            "type": "textarea"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-12",
+        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
+        "questions": [
+          {
+            "id": "",
+            "title": "<p>How healthy are your sleeping and eating habits? </p>",
             "type": "textarea"
           },
           {
@@ -282,36 +174,144 @@ export class QuestionsService {
       },
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
-        "date": "2018-01-19",
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-13",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
           {
             "id": "",
-            "title": "<p>What is the hardest thing you’ve ever experienced?</p>",
+            "title": "<p>What area of your life feels most hectic, stressful, or in need of simplifying?</p>",
             "type": "textarea"
           },
           {
             "id": "",
-            "title": "<p>What did you learn from it?</p>",
+            "title": "<p>What’s one way you could simplify that area this year?</p>",
             "type": "textarea"
           }
         ]
       },
       {
         "id": 0,
-        "title": "Practice completing the app every day.",
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-14",
+        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
+        "questions": [
+          {
+            "id": "",
+            "title": "<p>What is something you’ve been trying to change for a long time with little success?</p>",
+            "type": "textarea"
+          },
+          {
+            "id": "",
+            "title": "<p>What things in your life are detrimental to your spiritual health?</p>",
+            "type": "textarea"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-15",
+        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
+        "questions": [
+          {
+            "id": "",
+            "title": "<p>What is the biggest time-waster in your life, and what negative effects does it produce? </p>",
+            "type": "textarea"
+          },
+          {
+            "id": "",
+            "title": "<p>What will you do to change that this year?</p>",
+            "type": "textarea"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-16",
+        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
+        "questions": [
+          {
+            "id": "",
+            "title": "<p>How healthy is your work/rest balance? Do you tend to lean toward being too consumed by work or toward being lazy or unproductive?</p>",
+            "type": "textarea"
+          },
+          {
+            "id": "",
+            "title": "<p>What changes might you need to make this year to improve this? </p>",
+            "type": "textarea"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-17",
+        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
+        "questions": [
+          {
+            "id": "",
+            "title": "<p>In what area of your life do you need the most growth?</p>",
+            "type": "textarea"
+          },
+          {
+            "id": "",
+            "title": "<p>What will you do this year to intentionally pursue growth in that area?</p>",
+            "type": "textarea"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-18",
+        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
+        "questions": [
+          {
+            "id": "",
+            "title": "<p>What is your favorite book you’ve read in the last few years? How did it affect you, and what did you learn from it? </p>",
+            "type": "textarea"
+          },
+          {
+            "id": "",
+            "title": "<p>What is your current practice of reading? If you were to guess, how many books do you read per year?</p>",
+            "type": "textarea"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "title": "Get in the habit of using the app every day.",
+        "date": "2018-01-19",
+        "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
+        "questions": [
+          {
+            "id": "",
+            "title": "<p>What truth about God do you know but find hard to believe on a daily basis?</p>",
+            "type": "textarea"
+          },
+          {
+            "id": "",
+            "title": "<p>What can you do to press into that truth this year? </p>",
+            "type": "textarea"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "title": "Get in the habit of using the app every day.",
         "date": "2018-01-20",
         "content": "<p>The Personal Liturgy challenges officially start January 21st. From now until then, we want to give you some diagnostic questions to take stock of your life & spiritual health heading into this series.</p><p>On each day of this series, content specific to that day will appear here on the app. The progress bar at the top of the app won't start keeping track of your progress until the 21st, but the days leading up to that will be saved in your personal history. Starting on January 21st, the goal is to complete all 120 daily challenges. </p><p>We're so excited to fight for our spiritual health alongside you through this series! </p><p>In the meantime, you can find out more and explore other resources at <a href=\"http://personalliturgy.com\">www.PersonalLiturgy.com</a>. </p>",
         "questions": [
           {
             "id": "",
-            "title": "<p>What is the thing you most wish you were better at?</p>",
+            "title": "<p>What is something you do that you wish you didn’t do?</p>",
             "type": "textarea"
           },
           {
             "id": "",
-            "title": "<p>What would you like to be remembered for after you die?</p>",
+            "title": "<p>What habit would you most like to establish this year? </p>",
             "type": "textarea"
           }
         ]

@@ -22,7 +22,7 @@
   <div *ngFor="let question of dateQuestions.questions; let idx = index">
     <!-- <h3>{{question.title}}</h3> -->
     <p style="font-weight:bold; padding-bottom: 5px;" [innerHTML]="question.title"></p>
-    <p style="margin-left: 30px; padding-bottom: 1em; border-bottom: 1px solid #f5f5f5;">{{dateAnswers && dateAnswers[idx]}}</p>
+    <p class="answer-value">{{dateAnswers && dateAnswers[idx]}}</p>
   </div>
   
 </ion-content>
