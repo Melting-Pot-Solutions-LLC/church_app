@@ -22,11 +22,11 @@
 
 // HEADER
 .header {
-	
+
 	.toolbar-background {
 		background-color: #5ab16a;
 	}
-	
+
 	.back-button {
 		position: absolute;
 	 	padding: 0px;
@@ -77,6 +77,15 @@
   }
 }
 
+@media only screen
+  and (device-width : 375px)
+  and (device-height : 812px)
+  and (-webkit-device-pixel-ratio : 3) {
+
+  .tabbar {
+    height: 70px;
+  }
+}
 
 // CONTENT
 ion-content {
@@ -91,7 +100,7 @@ ion-content {
 	[weekday-title] {
 		margin: -8px 0px 0px;
 		height: 48px;
-		
+
 		ion-col {
 			padding: 0px;
 			height: 100%;
@@ -138,7 +147,7 @@ ion-content {
     width: 100%;
     border-bottom: 2px solid #fcffff;
   }
-  
+
 	.tab-button {
 		color: #1e5a3e;
 		font-family: 'Gotham Book Regular';
@@ -154,10 +163,10 @@ ion-content {
 	.tab-button:nth-child(2) {
     border-left: 2px;
     border-style: solid;
-    -webkit-border-image: 
+    -webkit-border-image:
       -webkit-gradient(linear, 100% 0, 0 0, from(#1a623c), to(#3d845c)) 1 100%;
     border-image:
-      linear-gradient(to right, #1a623c, #3d845c) 1 100%; 
+      linear-gradient(to right, #1a623c, #3d845c) 1 100%;
 	}
 
 	.alert-ios
