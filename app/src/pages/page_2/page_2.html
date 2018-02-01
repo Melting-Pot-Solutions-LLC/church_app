@@ -45,7 +45,7 @@
         <ion-card *ngIf="question.type=='textarea'">
           <ion-card-content>
           <ion-item style="padding: 0px !important">
-            <ion-textarea autocomplete="on" autocorrect="on" autocapitalize="on" spellcheck="on" elastic id="textarea" (ionChange)="textChanged($event)" style="width: 100%; border: 0px;" type="" rows="3" [(ngModel)]="todayAnswers && todayAnswers[idx]"></ion-textarea>
+            <ion-textarea autocomplete="on" autocorrect="on" autocapitalize="on" spellcheck="on" fz-elastic id="textarea" (ionChange)="textChanged($event)" style="width: 100%; border: 0px;" type="" rows="3" [(ngModel)]="todayAnswers && todayAnswers[idx]"></ion-textarea>
           </ion-item>
           </ion-card-content>
         </ion-card>

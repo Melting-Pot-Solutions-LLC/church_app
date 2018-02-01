@@ -26,6 +26,7 @@ import { UserAnswers } from '../services/user-answers';
 import { ElasticTextareaDirective } from '../directives/elastic-textarea/elastic-textarea';
 
 import { MomentModule } from 'angular2-moment';
+import { ElasticModule } from 'angular2-elastic';
 
 
 @NgModule({
@@ -46,6 +47,7 @@ import { MomentModule } from 'angular2-moment';
   imports: [
     BrowserModule,
     MomentModule,
+    ElasticModule,
     IonicModule.forRoot(MyApp, {
       backButtonText: '',
       tabsPlacement: 'bottom',
